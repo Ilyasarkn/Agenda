@@ -24,1389 +24,278 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c024e794-b9d5-56b3-b4a3-f8b220b525f9@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
+UID:week-2026-11-09@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
 DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 100 nieuw · Biochemie proefexamen (vr 13/11) + praktijkp
- roef (do 12/11)
-DESCRIPTION:Anki: 100 nieuwe kaarten (Ana 16 · Histo 11 · Celbio 31 · Bi
- ochem 25 · Psycho 17) + alle reviews.\nTaken: Biochemie proefexamen: H1
- –H10 doorlopen + oefenquiz Toledo. SV + Anki celbio H5.3\nVolledige plan
- ning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:bc421039-e59a-5d25-92c6-8c84139687e4@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 100 nieuw · Biochemie proefexamen (vr 13/11) + praktijkp
- roef (do 12/11)
-DESCRIPTION:Anki: 100 nieuwe kaarten (Ana 16 · Histo 11 · Celbio 31 · Bi
- ochem 25 · Psycho 17) + alle reviews.\nTaken: Biochemie proefexamen: H16
- –H17 + MC-oefenvragen. SV + Anki celbio H5.4\nVolledige planning: dashbo
- ard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:ec137607-35ae-5bfb-94fe-6d4936912e66@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 100 nieuw · Biochemie proefexamen (vr 13/11) + praktijkp
- roef (do 12/11)
-DESCRIPTION:Anki: 100 nieuwe kaarten (Ana 16 · Histo 11 · Celbio 31 · Bi
- ochem 25 · Psycho 17) + alle reviews.\nTaken: Biochemie: werkzittingen 1
- –3 opnieuw maken. 30 min ZEC vaardigheden voor praktijkproef\nVolledige 
- planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:fccd348c-9f0b-5252-aaa2-0132c51a9c6f@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 60 nieuw · Biochemie proefexamen (vr 13/11) + praktijkpr
- oef (do 12/11)
-DESCRIPTION:Anki: 60 nieuwe kaarten (Ana 10 · Histo 6 · Celbio 19 · Bioc
- hem 15 · Psycho 10) + alle reviews.\nTaken: PRAKTIJKPROEF vaardigheden. A
- vond: biochemie zwakke punten\, vroeg slapen\nVolledige planning: dashboar
- d Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:525fc5a6-2a2d-5fed-80b2-6b88bf4474de@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 29 nieuw · Biochemie proefexamen (vr 13/11) + praktijkpr
- oef (do 12/11)
-DESCRIPTION:Anki: 29 nieuwe kaarten (Ana 5 · Histo 3 · Celbio 9 · Bioche
- m 7 · Psycho 5) + alle reviews.\nTaken: 09:45 PROEFEXAMEN biochemie: fout
- en noteren. Avond oud-leerlingavond\nVolledige planning: dashboard Samenva
- ttingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:17e73a1b-9735-5340-adf4-3e1011b91f62@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 19 nieuw · Welpenweekend
-DESCRIPTION:Anki: 19 nieuwe kaarten (Ana 3 · Histo 2 · Celbio 6 · Bioche
- m 5 · Psycho 3) + alle reviews.\nTaken: Welpenweekend: enkel Anki (review
- s + wat nieuw lukt)\nVolledige planning: dashboard Samenvattingen & Anki 
- — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:33aeb3ea-b2e4-5fcb-a5fb-65e509536b4e@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 41 nieuw · Welpenweekend
-DESCRIPTION:Anki: 41 nieuwe kaarten (Ana 7 · Histo 4 · Celbio 13 · Bioch
- em 10 · Psycho 7) + alle reviews.\nTaken: Welpenweekend: enkel Anki. Avon
- d: weekreview + Anki-stand doorsturen\nVolledige planning: dashboard Samen
- vattingen & Anki — Bach 1
+SUMMARY:🎯 W46 · Proefexamenweek
+DESCRIPTION:📌 MIJLPALEN\n• do 12/11 praktijkproef\n• vr 13/11 09:45 
+ proefexamen\n• za–zo welpenweekend: enkel Anki\n\n📖 VERWERKEN (same
+ nvatting + vragen van Claude)\n• Biochem: H1\, H2\, H3\, H5\, H6\, H9\, 
+ H10\n\n✍️ BIJHOUDEN\n• Celbie: SV + Anki H5.3 en H5.4\n\n🧠 ANKI\n
+ • 449 nieuwe kaarten (Ana 73 · Histo 48 · Celbie 140 · Biochem 112 ·
+  Psycho 76)\n\nAfvinken in je dashboard "Samenvattingen & Anki — Bach 1"
+ .
 END:VEVENT
 BEGIN:VEVENT
-UID:44765dd1-b416-5093-9d87-02680a7f2c83@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
+UID:review-2026-11-15@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
 DTSTART;TZID=Europe/Brussels:20261115T210000
 DTEND;TZID=Europe/Brussels:20261115T213000
 SUMMARY:🗓️ Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Check: quota gehaald? Screenshot van je Anki-decks doorsturen z
- odat de planning bijgestuurd wordt.
+DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
+  zodat Claude de planning bijstuurt.
 END:VEVENT
 BEGIN:VEVENT
-UID:442efe50-0ce4-5157-87c4-81503017303b@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
+UID:week-2026-11-16@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
 DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 121 nieuw
-DESCRIPTION:Anki: 121 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 20) + alle reviews.\nTaken: Histologie H9 zenuwweefsel:
-  SV + Anki (loopt achter)\nVolledige planning: dashboard Samenvattingen & 
- Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:822e01af-6272-5147-9b48-d07c5f12a95e@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 121 nieuw
-DESCRIPTION:Anki: 121 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 20) + alle reviews.\nTaken: Histologie H9 afwerken + ni
- euwe lessen bijwerken\nVolledige planning: dashboard Samenvattingen & Anki
-  — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:8242d0e4-f481-592f-a707-fb49945aef45@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 121 nieuw
-DESCRIPTION:Anki: 121 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 20) + alle reviews.\nTaken: Lessen van vandaag samenvat
- ten + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki
-  — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:ee110262-733a-504c-ba01-8a733d69e428@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 121 nieuw
-DESCRIPTION:Anki: 121 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 20) + alle reviews.\nTaken: Lessen van vandaag samenvat
- ten + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki
-  — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:69a3dac1-c1b4-556f-abf7-3ccc48a357a0@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 80 nieuw
-DESCRIPTION:Anki: 80 nieuwe kaarten (Ana 13 · Histo 9 · Celbio 25 · Bioc
- hem 20 · Psycho 13) + alle reviews.\nTaken: Lessen van vandaag samenvatte
- n + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki 
- — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:7ece898c-afd9-56e5-86fa-71a3f4ee70f2@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 41 nieuw
-DESCRIPTION:Anki: 41 nieuwe kaarten (Ana 7 · Histo 4 · Celbio 13 · Bioch
- em 10 · Psycho 7) + alle reviews.\nTaken: Scouts 14–17u\, Anki\nVolledi
- ge planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:6c6c3315-c6ed-52d8-a374-3301edad7021@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 80 nieuw
-DESCRIPTION:Anki: 80 nieuwe kaarten (Ana 13 · Histo 9 · Celbio 25 · Bioc
- hem 20 · Psycho 13) + alle reviews.\nTaken: Weekreview + Anki-stand doors
- turen\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
+SUMMARY:🎯 W47 · Histo + celbie starten
+DESCRIPTION:📖 VERWERKEN (samenvatting + vragen van Claude)\n• Histo: H
+ 1\, H3\, H4\, H5\n• Celbie: H1\, H2\n\n✍️ BIJHOUDEN\n• Histo: H9 z
+ enuwweefsel: SV + Anki (achterstand)\n• Nieuwe lessen: SV + Anki binnen 
+ 48u\n\n🧠 ANKI\n• 685 nieuwe kaarten (Ana 113 · Histo 74 · Celbie 21
+ 5 · Biochem 170 · Psycho 113)\n\nAfvinken in je dashboard "Samenvattinge
+ n & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
-UID:c5fbb62e-9b6c-5e32-83f7-d08f66fcc34c@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
+UID:review-2026-11-22@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
 DTSTART;TZID=Europe/Brussels:20261122T210000
 DTEND;TZID=Europe/Brussels:20261122T213000
 SUMMARY:🗓️ Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Check: quota gehaald? Screenshot van je Anki-decks doorsturen z
- odat de planning bijgestuurd wordt.
+DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
+  zodat Claude de planning bijstuurt.
 END:VEVENT
 BEGIN:VEVENT
-UID:5ce6cad9-0b32-5c4a-862b-9b2cb580b57c@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
+UID:week-2026-11-23@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
 DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 121 nieuw
-DESCRIPTION:Anki: 121 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 20) + alle reviews.\nTaken: Lessen van vandaag samenvat
- ten + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki
-  — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:9435e137-0bf3-5c0a-b878-6414d9b49fd7@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 121 nieuw
-DESCRIPTION:Anki: 121 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 20) + alle reviews.\nTaken: Lessen van vandaag samenvat
- ten + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki
-  — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:4fb6fad7-c508-5c2a-bb8e-aff6ad53f5fb@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 121 nieuw
-DESCRIPTION:Anki: 121 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 20) + alle reviews.\nTaken: Lessen van vandaag samenvat
- ten + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki
-  — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:4e0cba85-90a6-523a-80b8-75bd8d8a87cd@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 121 nieuw
-DESCRIPTION:Anki: 121 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 20) + alle reviews.\nTaken: Lessen van vandaag samenvat
- ten + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki
-  — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:4bcfbed7-d9ad-58d0-9a96-81c3a7e75952@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 80 nieuw
-DESCRIPTION:Anki: 80 nieuwe kaarten (Ana 13 · Histo 9 · Celbio 25 · Bioc
- hem 20 · Psycho 13) + alle reviews.\nTaken: Lessen van vandaag samenvatte
- n + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki 
- — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:2c1dd17b-09bb-57b8-b3d5-b4bb9916e38c@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 41 nieuw
-DESCRIPTION:Anki: 41 nieuwe kaarten (Ana 7 · Histo 4 · Celbio 13 · Bioch
- em 10 · Psycho 7) + alle reviews.\nTaken: Scouts 14–17u\, Anki\nVolledi
- ge planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:87083f56-36dc-5d79-91c1-b5ad3897d995@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 80 nieuw
-DESCRIPTION:Anki: 80 nieuwe kaarten (Ana 13 · Histo 9 · Celbio 25 · Bioc
- hem 20 · Psycho 13) + alle reviews.\nTaken: Weekreview + Anki-stand doors
- turen\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
+SUMMARY:🎯 W48 · Histo afwerken + celbie transport
+DESCRIPTION:📖 VERWERKEN (samenvatting + vragen van Claude)\n• Histo: H
+ 6\, H7\, H8\, H9\n• Celbie: H3.1\, H3.2\, H3.3\, H3.4\n\n✍️ BIJHOUDE
+ N\n• Nieuwe lessen: SV + Anki binnen 48u\n\n🧠 ANKI\n• 685 nieuwe ka
+ arten (Ana 113 · Histo 74 · Celbie 215 · Biochem 170 · Psycho 113)\n\n
+ Afvinken in je dashboard "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
-UID:8f576cd5-525a-573c-9114-711901cd7b88@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
+UID:review-2026-11-29@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
 DTSTART;TZID=Europe/Brussels:20261129T210000
 DTEND;TZID=Europe/Brussels:20261129T213000
 SUMMARY:🗓️ Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Check: quota gehaald? Screenshot van je Anki-decks doorsturen z
- odat de planning bijgestuurd wordt.
+DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
+  zodat Claude de planning bijstuurt.
 END:VEVENT
 BEGIN:VEVENT
-UID:c4724dfb-0e35-5a9f-9841-a24eda25696c@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
+UID:week-2026-11-30@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
 DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 121 nieuw
-DESCRIPTION:Anki: 121 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 20) + alle reviews.\nTaken: Lessen van vandaag samenvat
- ten + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki
-  — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:425d16c6-ef21-5817-9bd2-eb21bb585890@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 121 nieuw
-DESCRIPTION:Anki: 121 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 20) + alle reviews.\nTaken: Lessen van vandaag samenvat
- ten + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki
-  — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:f2d9c011-2d65-5e85-a667-cf5dd9bc289b@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 121 nieuw
-DESCRIPTION:Anki: 121 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 20) + alle reviews.\nTaken: Lessen van vandaag samenvat
- ten + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki
-  — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:d70a9b7e-22dd-5c94-82c2-000f4ca23290@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 121 nieuw
-DESCRIPTION:Anki: 121 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 20) + alle reviews.\nTaken: Lessen van vandaag samenvat
- ten + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki
-  — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:19405dda-93a5-5c58-9a29-ab49067366b8@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 80 nieuw
-DESCRIPTION:Anki: 80 nieuwe kaarten (Ana 13 · Histo 9 · Celbio 25 · Bioc
- hem 20 · Psycho 13) + alle reviews.\nTaken: Lessen van vandaag samenvatte
- n + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki 
- — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:ae83bf43-79b5-505d-a5f0-3d0a2cc62374@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 41 nieuw
-DESCRIPTION:Anki: 41 nieuwe kaarten (Ana 7 · Histo 4 · Celbio 13 · Bioch
- em 10 · Psycho 7) + alle reviews.\nTaken: Scouts 14–17u\, Anki\nVolledi
- ge planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:fafdcfd3-2427-589e-b75f-45c57611d9e9@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 80 nieuw
-DESCRIPTION:Anki: 80 nieuwe kaarten (Ana 13 · Histo 9 · Celbio 25 · Bioc
- hem 20 · Psycho 13) + alle reviews.\nTaken: Weekreview + Anki-stand doors
- turen\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
+SUMMARY:🎯 W49 · Celbie + moleculaire biologie
+DESCRIPTION:📖 VERWERKEN (samenvatting + vragen van Claude)\n• Celbie: 
+ H3.5\, H3.6\, H3.7\, H3.8\, H4.1\, H4.2\, H4.3\n• Biochem: H16\, H17\n\n
+ ✍️ BIJHOUDEN\n• Nieuwe lessen: SV + Anki binnen 48u\n\n🧠 ANKI\n
+ • 685 nieuwe kaarten (Ana 113 · Histo 74 · Celbie 215 · Biochem 170 
+ · Psycho 113)\n\nAfvinken in je dashboard "Samenvattingen & Anki — Bach
+  1".
 END:VEVENT
 BEGIN:VEVENT
-UID:ee8435f3-db48-5ea6-ba8c-56b2f9384d6d@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
+UID:review-2026-12-06@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
 DTSTART;TZID=Europe/Brussels:20261206T210000
 DTEND;TZID=Europe/Brussels:20261206T213000
 SUMMARY:🗓️ Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Check: quota gehaald? Screenshot van je Anki-decks doorsturen z
- odat de planning bijgestuurd wordt.
+DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
+  zodat Claude de planning bijstuurt.
 END:VEVENT
 BEGIN:VEVENT
-UID:dff1f1ac-accc-5272-aa71-83d222d1dc76@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
+UID:week-2026-12-07@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
 DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 120 nieuw
-DESCRIPTION:Anki: 120 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 19) + alle reviews.\nTaken: Lessen van vandaag samenvat
- ten + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki
-  — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:57376ae3-37cf-5565-9408-f7a9b38f0598@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 120 nieuw
-DESCRIPTION:Anki: 120 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 19) + alle reviews.\nTaken: Celbiologie proefexamen 2 (
- online 7–10/12) maken\nVolledige planning: dashboard Samenvattingen & An
- ki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:783cc34a-bfbf-5aa3-8eb1-b0d0acd47f65@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 121 nieuw
-DESCRIPTION:Anki: 121 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 20) + alle reviews.\nTaken: Anatomie voorbeeldexamen + 
- vragencollege\nVolledige planning: dashboard Samenvattingen & Anki — Bac
- h 1
-END:VEVENT
-BEGIN:VEVENT
-UID:d7a35562-9516-54c8-829f-252373529c82@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 121 nieuw
-DESCRIPTION:Anki: 121 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 30 · Psycho 20) + alle reviews.\nTaken: Lessen van vandaag samenvat
- ten + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki
-  — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:5728bfac-64e5-583a-aa31-8cb1ed545e03@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 80 nieuw
-DESCRIPTION:Anki: 80 nieuwe kaarten (Ana 13 · Histo 9 · Celbio 25 · Bioc
- hem 20 · Psycho 13) + alle reviews.\nTaken: Lessen van vandaag samenvatte
- n + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki 
- — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:23da2aa7-91be-5910-a185-fa06fc295557@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 40 nieuw
-DESCRIPTION:Anki: 40 nieuwe kaarten (Ana 7 · Histo 4 · Celbio 13 · Bioch
- em 10 · Psycho 6) + alle reviews.\nTaken: Scouts 14–17u\, Anki\nVolledi
- ge planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:01fe6498-7812-5501-99d6-a00938d00fb0@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 81 nieuw
-DESCRIPTION:Anki: 81 nieuwe kaarten (Ana 14 · Histo 9 · Celbio 25 · Bioc
- hem 20 · Psycho 13) + alle reviews.\nTaken: Weekreview + Anki-stand doors
- turen\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
+SUMMARY:🎯 W50 · Proefexamens + psycho deel I
+DESCRIPTION:📌 MIJLPALEN\n• Proefexamen 2 online (7–10/12)\n• wo 9/
+ 12 voorbeeldexamen + vragencollege\n\n📖 VERWERKEN (samenvatting + vrage
+ n van Claude)\n• Celbie: H5.1\, H5.2\, H5.3\, H5.4\n• Psycho: D1 L1\, 
+ D1 L2\, D1 L3\, D1 L4\, D1 L5\n\n✍️ BIJHOUDEN\n• Nieuwe lessen: SV +
+  Anki binnen 48u\n\n🧠 ANKI\n• 683 nieuwe kaarten (Ana 114 · Histo 74
+  · Celbie 215 · Biochem 170 · Psycho 110)\n\nAfvinken in je dashboard "
+ Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
-UID:1f7d1397-ce42-5887-be20-b458d0c6dfdf@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
+UID:review-2026-12-13@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
 DTSTART;TZID=Europe/Brussels:20261213T210000
 DTEND;TZID=Europe/Brussels:20261213T213000
 SUMMARY:🗓️ Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Check: quota gehaald? Screenshot van je Anki-decks doorsturen z
- odat de planning bijgestuurd wordt.
+DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
+  zodat Claude de planning bijstuurt.
 END:VEVENT
 BEGIN:VEVENT
-UID:361a8cb3-98c0-521e-873a-21f329ccebdd@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
+UID:week-2026-12-14@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
 DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261221
 TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 119 nieuw
-DESCRIPTION:Anki: 119 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 29 · Psycho 19) + alle reviews.\nTaken: Celbio herhalingsles (JE)\n
- Volledige planning: dashboard Samenvattingen & Anki — Bach 1
+SUMMARY:🎯 W51 · Laatste lesweek
+DESCRIPTION:📌 MIJLPALEN\n• ma 14 + di 15/12 herhalingslessen\n• wo 1
+ 6/12 werkzitting 6\n• za 19/12 start blok\n\n📖 VERWERKEN (samenvattin
+ g + vragen van Claude)\n• Biochem: H18\, H19\, H20\n• Psycho: D2 L1\, 
+ D2 L2\, D2 L3\, D2 L4\n\n✍️ BIJHOUDEN\n• Tegen zo 20/12 ALLE SV + de
+ cks klaar (ook biochem H25)\n\n🧠 ANKI\n• 817 nieuwe kaarten (Ana 138 
+ · Histo 89 · Celbie 259 · Biochem 200 · Psycho 131)\n\nAfvinken in je 
+ dashboard "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
-UID:509be8ba-cdf9-59fb-aa6d-9969769004c2@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261216
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 119 nieuw
-DESCRIPTION:Anki: 119 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 29 · Psycho 19) + alle reviews.\nTaken: Celbio herhalingsles (TV)\n
- Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:7ac08dcf-ef92-56e5-a407-802b1a479456@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 119 nieuw
-DESCRIPTION:Anki: 119 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 29 · Psycho 19) + alle reviews.\nTaken: Biochemie WZ6\nVolledige pl
- anning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:c4f32c5b-6351-52ec-8af1-cf420320e0cb@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261217
-DTEND;VALUE=DATE:20261218
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 119 nieuw
-DESCRIPTION:Anki: 119 nieuwe kaarten (Ana 20 · Histo 13 · Celbio 38 · Bi
- ochem 29 · Psycho 19) + alle reviews.\nTaken: Lessen van vandaag samenvat
- ten + Anki-deck maken\nVolledige planning: dashboard Samenvattingen & Anki
-  — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:e0b1d39f-ee87-58b2-93e2-fb93c19c3acc@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-TRANSP:TRANSPARENT
-SUMMARY:📚 Anki 81 nieuw
-DESCRIPTION:Anki: 81 nieuwe kaarten (Ana 14 · Histo 9 · Celbio 25 · Bioc
- hem 20 · Psycho 13) + alle reviews.\nTaken: Laatste lesdag: alle SV en de
- cks moeten nu up-to-date zijn\nVolledige planning: dashboard Samenvattinge
- n & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:f09d9668-d5b3-529c-8501-58f1e0bab18b@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261219T083000
-DTEND;TZID=Europe/Brussels:20261219T120000
-SUMMARY:📖 Anatomie M1 + M2 H1–H2
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:d5a3f628-563b-59cb-ae2e-c248ba928108@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261219T193000
-DTEND;TZID=Europe/Brussels:20261219T213000
-SUMMARY:🧠 Anki 130 nieuw + reviews
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:6173fa06-9ec1-508f-92ca-90dd0f4c1c1d@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261220T083000
-DTEND;TZID=Europe/Brussels:20261220T120000
-SUMMARY:📖 Anatomie M2 H3–H6
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:83e1291d-672b-5206-a5ec-76de1937e0e1@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261220T130000
-DTEND;TZID=Europe/Brussels:20261220T170000
-SUMMARY:📖 Anatomie M2 H3–H6 (deel 2)
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:cd559fbd-9f9a-5ebe-a980-24476754af15@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261220T193000
+UID:review-2026-12-20@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
+DTSTART;TZID=Europe/Brussels:20261220T210000
 DTEND;TZID=Europe/Brussels:20261220T213000
-SUMMARY:🧠 Anki 130 nieuw + reviews
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
+SUMMARY:🗓️ Weekreview + Anki-screenshot naar Claude
+DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
+  zodat Claude de planning bijstuurt.
 END:VEVENT
 BEGIN:VEVENT
-UID:1a66d2d2-1643-5889-a6ec-d4070b7a0451@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261221T083000
-DTEND;TZID=Europe/Brussels:20261221T120000
-SUMMARY:📖 Anatomie M3 + M4
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
+UID:week-2026-12-21@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261228
+TRANSP:TRANSPARENT
+SUMMARY:🎯 W52 · Blok: anatomie
+DESCRIPTION:📌 MIJLPALEN\n• vr 25/12 Kerstmis: vrij\n\n📖 VERWERKEN (
+ samenvatting + vragen van Claude)\n• Ana: M1\, M2 H1\, M2 H2\, M2 H3\, M
+ 2 H4\, M2 H5\, M2 H6\, M3 H1\, M3 H2\, M3 H3\n• Histo: Beeldherkenning H
+ 1–H9\n\n🧠 ANKI\n• 749 nieuwe kaarten (Ana 129 · Histo 82 · Celbie
+  237 · Biochem 182 · Psycho 119)\n\nAfvinken in je dashboard "Samenvatti
+ ngen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
-UID:c4ae30d6-f2b9-54cf-b98c-ec5c8760635e@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261221T130000
-DTEND;TZID=Europe/Brussels:20261221T170000
-SUMMARY:📖 Anatomie M3 + M4 (deel 2)
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:7987d3a4-c046-580f-93f4-0fb135ead8b3@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261221T193000
-DTEND;TZID=Europe/Brussels:20261221T213000
-SUMMARY:🧠 Anki 130 nieuw + reviews
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:a52b807b-db8b-5030-b892-86913d924b59@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261222T083000
-DTEND;TZID=Europe/Brussels:20261222T120000
-SUMMARY:📖 Histologie H1–H5
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:70d017ea-edd3-5b3b-bf0c-c5e6c032d1d1@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261222T130000
-DTEND;TZID=Europe/Brussels:20261222T170000
-SUMMARY:📖 Histologie H1–H5 (deel 2)
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:a26f883c-351f-5ce6-b73b-1ec3eca23e2e@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261222T193000
-DTEND;TZID=Europe/Brussels:20261222T213000
-SUMMARY:🧠 Anki 130 nieuw + reviews
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:a37ce847-152a-56e1-a2bc-7bcea90ed75f@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261223T083000
-DTEND;TZID=Europe/Brussels:20261223T120000
-SUMMARY:📖 Histologie H6–H9 + beeldherkenning
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:aa497f0b-9839-5520-a7a2-94dee0a46171@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261223T130000
-DTEND;TZID=Europe/Brussels:20261223T170000
-SUMMARY:📖 Histologie H6–H9 + beeldherkenning (deel 2)
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:6ab45aff-73f9-5163-8347-4aabe1bc7f71@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261223T193000
-DTEND;TZID=Europe/Brussels:20261223T213000
-SUMMARY:🧠 Anki 130 nieuw + reviews
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:43cc4247-7e31-5ac0-a105-ead4eff7cd4d@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261224T083000
-DTEND;TZID=Europe/Brussels:20261224T120000
-SUMMARY:📖 Celbiologie H1–H2 (halve dag)
-DESCRIPTION:Anki: 49 nieuwe kaarten (Ana 8 · Histo 5 · Celbio 16 · Bioch
- em 12 · Psycho 8) + alle reviews.\nVolledige planning: dashboard Samenvat
- tingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:af6f096e-ed83-52fb-b09b-e15fbac185f3@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261224T193000
-DTEND;TZID=Europe/Brussels:20261224T213000
-SUMMARY:🧠 Anki 49 nieuw + reviews
-DESCRIPTION:Anki: 49 nieuwe kaarten (Ana 8 · Histo 5 · Celbio 16 · Bioch
- em 12 · Psycho 8) + alle reviews.\nVolledige planning: dashboard Samenvat
- tingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:91614f90-19e4-548f-8c58-a650f4240515@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261225T100000
-DTEND;TZID=Europe/Brussels:20261225T120000
-SUMMARY:🧠 Anki 50 nieuw + reviews
-DESCRIPTION:Anki: 50 nieuwe kaarten (Ana 9 · Histo 5 · Celbio 16 · Bioch
- em 12 · Psycho 8) + alle reviews.\nVolledige planning: dashboard Samenvat
- tingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:cf910a06-b4a8-56c4-9ad4-16a3269b182f@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261226T083000
-DTEND;TZID=Europe/Brussels:20261226T120000
-SUMMARY:📖 Celbiologie H3 membraantransport + rekenvragen
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 23 · Histo 15 · Celbio 41 · Bi
- ochem 31 · Psycho 20) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:b5c82767-7106-511f-85ba-a7742d755f88@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261226T193000
-DTEND;TZID=Europe/Brussels:20261226T213000
-SUMMARY:🧠 Anki 130 nieuw + reviews
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 23 · Histo 15 · Celbio 41 · Bi
- ochem 31 · Psycho 20) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:865380b0-c954-5527-a808-04f6c74f3d16@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261227T083000
-DTEND;TZID=Europe/Brussels:20261227T120000
-SUMMARY:📖 Celbiologie H4–H5 signaaltransductie
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 23 · Histo 15 · Celbio 41 · Bi
- ochem 31 · Psycho 20) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:412280af-b706-5046-b872-fdd2c0d904d6@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261227T130000
-DTEND;TZID=Europe/Brussels:20261227T170000
-SUMMARY:📖 Celbiologie H4–H5 signaaltransductie (deel 2)
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 23 · Histo 15 · Celbio 41 · Bi
- ochem 31 · Psycho 20) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:893a837b-877a-5c4d-8252-29c4db9146da@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261227T193000
+UID:review-2026-12-27@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
+DTSTART;TZID=Europe/Brussels:20261227T210000
 DTEND;TZID=Europe/Brussels:20261227T213000
-SUMMARY:🧠 Anki 130 nieuw + reviews
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 23 · Histo 15 · Celbio 41 · Bi
- ochem 31 · Psycho 20) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
+SUMMARY:🗓️ Weekreview + Anki-screenshot naar Claude
+DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
+  zodat Claude de planning bijstuurt.
 END:VEVENT
 BEGIN:VEVENT
-UID:146e36d8-3c80-5927-a906-1fffaac4c43b@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261228T083000
-DTEND;TZID=Europe/Brussels:20261228T120000
-SUMMARY:📖 Celbiologie H6–H8
-DESCRIPTION:Anki: 131 nieuwe kaarten (Ana 23 · Histo 15 · Celbio 41 · Bi
- ochem 31 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
+UID:week-2026-12-28@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20270104
+TRANSP:TRANSPARENT
+SUMMARY:🎯 W53 · Blok: celbie H6–H8 + ana afronden
+DESCRIPTION:📌 MIJLPALEN\n• vr 1/1 Nieuwjaar: vrij\n\n📖 VERWERKEN (s
+ amenvatting + vragen van Claude)\n• Ana: M4 biomechanica\, Functionele a
+ natomie rug\, Functionele anatomie hals/nek\, Oefenexamen ana + histo (stu
+ docu)\n• Celbie: H6\, H7\, H8\n\n🧠 ANKI\n• 750 nieuwe kaarten (Ana 
+ 141 · Histo 91 · Celbie 231 · Biochem 173 · Psycho 114)\n\nAfvinken in
+  je dashboard "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
-UID:b9035711-b4ef-5ff8-b5f8-50d81b706b1c@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261228T130000
-DTEND;TZID=Europe/Brussels:20261228T170000
-SUMMARY:📖 Celbiologie H6–H8 (deel 2)
-DESCRIPTION:Anki: 131 nieuwe kaarten (Ana 23 · Histo 15 · Celbio 41 · Bi
- ochem 31 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:ea44a33e-30ce-54fc-b2d6-2d34aba98157@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261228T193000
-DTEND;TZID=Europe/Brussels:20261228T213000
-SUMMARY:🧠 Anki 131 nieuw + reviews
-DESCRIPTION:Anki: 131 nieuwe kaarten (Ana 23 · Histo 15 · Celbio 41 · Bi
- ochem 31 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:cb3ec936-59a0-5f5a-8517-7cfccc3a4c39@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261229T083000
-DTEND;TZID=Europe/Brussels:20261229T120000
-SUMMARY:📖 Anatomie herhaling M1–M2 + oefenvragen
-DESCRIPTION:Anki: 129 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 31 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:4bc637ce-6c32-501a-b12b-05b4ca1935cb@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261229T130000
-DTEND;TZID=Europe/Brussels:20261229T170000
-SUMMARY:📖 Anatomie herhaling M1–M2 + oefenvragen (deel 2)
-DESCRIPTION:Anki: 129 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 31 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:9a4f2c92-f7b2-50d3-8570-5e952c010c3f@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261229T193000
-DTEND;TZID=Europe/Brussels:20261229T213000
-SUMMARY:🧠 Anki 129 nieuw + reviews
-DESCRIPTION:Anki: 129 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 31 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:3b290e6b-1f49-5435-8c81-8429b6675adc@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261230T083000
-DTEND;TZID=Europe/Brussels:20261230T120000
-SUMMARY:📖 Anatomie M3–M4 + functionele anatomie
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:16ccbeb1-677a-56ec-b715-e4d23eb48f62@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261230T130000
-DTEND;TZID=Europe/Brussels:20261230T170000
-SUMMARY:📖 Anatomie M3–M4 + functionele anatomie (deel 2)
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:f4351c3e-aaa3-58a0-ae97-a43148bfe858@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261230T193000
-DTEND;TZID=Europe/Brussels:20261230T213000
-SUMMARY:🧠 Anki 130 nieuw + reviews
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 22 · Histo 14 · Celbio 41 · Bi
- ochem 32 · Psycho 21) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:477349e1-361c-5b02-ba3e-b5c30aa1bef8@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261231T083000
-DTEND;TZID=Europe/Brussels:20261231T120000
-SUMMARY:📖 Histologie beeldherkenning (halve dag)
-DESCRIPTION:Anki: 49 nieuwe kaarten (Ana 8 · Histo 5 · Celbio 16 · Bioch
- em 12 · Psycho 8) + alle reviews.\nVolledige planning: dashboard Samenvat
- tingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:d5b68678-ba77-5965-97bf-8b28e7f662c0@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20261231T193000
-DTEND;TZID=Europe/Brussels:20261231T213000
-SUMMARY:🧠 Anki 49 nieuw + reviews
-DESCRIPTION:Anki: 49 nieuwe kaarten (Ana 8 · Histo 5 · Celbio 16 · Bioch
- em 12 · Psycho 8) + alle reviews.\nVolledige planning: dashboard Samenvat
- tingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:c7bfc7a7-3d65-5a74-8030-9a87dfa3062b@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270101T100000
-DTEND;TZID=Europe/Brussels:20270101T120000
-SUMMARY:🧠 Anki 51 nieuw + reviews
-DESCRIPTION:Anki: 51 nieuwe kaarten (Ana 9 · Histo 6 · Celbio 16 · Bioch
- em 12 · Psycho 8) + alle reviews.\nVolledige planning: dashboard Samenvat
- tingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:7fc00116-4a96-5856-b76d-4894bb603d5e@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270102T083000
-DTEND;TZID=Europe/Brussels:20270102T120000
-SUMMARY:📖 Oefenexamen anatomie + histologie\, fouten uitpluizen
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 28 · Histo 18 · Celbio 38 · Bi
- ochem 28 · Psycho 18) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:e115b32d-5914-5cc1-aff9-f9604953b830@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270102T193000
-DTEND;TZID=Europe/Brussels:20270102T213000
-SUMMARY:🧠 Anki 130 nieuw + reviews
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 28 · Histo 18 · Celbio 38 · Bi
- ochem 28 · Psycho 18) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:17776733-5850-55b4-924f-b1fbc7852e65@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270103T083000
-DTEND;TZID=Europe/Brussels:20270103T120000
-SUMMARY:📖 Anatomie zwakke punten
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 29 · Histo 19 · Celbio 38 · Bi
- ochem 27 · Psycho 17) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:219342f6-dba1-5b06-ada1-4c1517ee63f2@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270103T130000
-DTEND;TZID=Europe/Brussels:20270103T170000
-SUMMARY:📖 Anatomie zwakke punten (deel 2)
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 29 · Histo 19 · Celbio 38 · Bi
- ochem 27 · Psycho 17) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:46e2d06f-b781-5c26-a186-4cbfef64dbc5@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270103T193000
+UID:review-2027-01-03@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
+DTSTART;TZID=Europe/Brussels:20270103T210000
 DTEND;TZID=Europe/Brussels:20270103T213000
-SUMMARY:🧠 Anki 130 nieuw + reviews
-DESCRIPTION:Anki: 130 nieuwe kaarten (Ana 29 · Histo 19 · Celbio 38 · Bi
- ochem 27 · Psycho 17) + alle reviews.\nVolledige planning: dashboard Same
- nvattingen & Anki — Bach 1
+SUMMARY:🗓️ Weekreview + Anki-screenshot naar Claude
+DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
+  zodat Claude de planning bijstuurt.
 END:VEVENT
 BEGIN:VEVENT
-UID:33e34a45-daf4-5865-99ac-e234d35c847e@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270104T083000
-DTEND;TZID=Europe/Brussels:20270104T120000
-SUMMARY:📖 Histologie volledige herhaling
-DESCRIPTION:Anki: 129 nieuwe kaarten (Celbio 60 · Biochem 42 · Psycho 27)
-  + alle reviews.\nVolledige planning: dashboard Samenvattingen & Anki — 
- Bach 1
+UID:week-2027-01-04@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270111
+TRANSP:TRANSPARENT
+SUMMARY:🎯 W1 · Examen ana/histo\, dan celbie
+DESCRIPTION:📌 MIJLPALEN\n• do 7/1 EXAMEN anatomie + histologie\n\n📖
+  VERWERKEN (samenvatting + vragen van Claude)\n• Ana: ma–di: volledige
+  herhaling ana + histo\, zwakke punten\n• Celbie: vr–zo: herhaling H1
+ –H8\, Proefexamen 1 en 2 opnieuw maken\n\n🧠 ANKI\n• 688 nieuwe kaar
+ ten (Celbie 265 · Biochem 257 · Psycho 166)\n\nAfvinken in je dashboard 
+ "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
-UID:6d8278a6-39a7-5905-af9f-e99dd46083d0@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270104T130000
-DTEND;TZID=Europe/Brussels:20270104T170000
-SUMMARY:📖 Histologie volledige herhaling (deel 2)
-DESCRIPTION:Anki: 129 nieuwe kaarten (Celbio 60 · Biochem 42 · Psycho 27)
-  + alle reviews.\nVolledige planning: dashboard Samenvattingen & Anki — 
- Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:2fd3b20c-4afd-5b37-9ddf-8dc6f9825a25@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270104T193000
-DTEND;TZID=Europe/Brussels:20270104T213000
-SUMMARY:🧠 Anki 129 nieuw + reviews
-DESCRIPTION:Anki: 129 nieuwe kaarten (Celbio 60 · Biochem 42 · Psycho 27)
-  + alle reviews.\nVolledige planning: dashboard Samenvattingen & Anki — 
- Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:d75fb385-8b19-509a-9c65-29183cd209a1@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270105T083000
-DTEND;TZID=Europe/Brussels:20270105T120000
-SUMMARY:📖 Anatomie volledige herhaling
-DESCRIPTION:Anki: 130 nieuwe kaarten (Celbio 59 · Biochem 43 · Psycho 28)
-  + alle reviews.\nVolledige planning: dashboard Samenvattingen & Anki — 
- Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:4646ea6e-b7c0-5dce-90ca-47d4f2e5085b@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270105T130000
-DTEND;TZID=Europe/Brussels:20270105T170000
-SUMMARY:📖 Anatomie volledige herhaling (deel 2)
-DESCRIPTION:Anki: 130 nieuwe kaarten (Celbio 59 · Biochem 43 · Psycho 28)
-  + alle reviews.\nVolledige planning: dashboard Samenvattingen & Anki — 
- Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:2bf9a9e9-a517-5be2-831f-028d7668302c@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270105T193000
-DTEND;TZID=Europe/Brussels:20270105T213000
-SUMMARY:🧠 Anki 130 nieuw + reviews
-DESCRIPTION:Anki: 130 nieuwe kaarten (Celbio 59 · Biochem 43 · Psycho 28)
-  + alle reviews.\nVolledige planning: dashboard Samenvattingen & Anki — 
- Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:4473d21a-dbe9-518d-a9c1-bf06bee354f9@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270106T083000
-DTEND;TZID=Europe/Brussels:20270106T120000
-SUMMARY:📖 Lichte herhaling ana/histo\, vroeg slapen
-DESCRIPTION:Anki: 130 nieuwe kaarten (Celbio 56 · Biochem 45 · Psycho 29)
-  + alle reviews.\nVolledige planning: dashboard Samenvattingen & Anki — 
- Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:7b2cca17-adfd-500b-8805-6151b046082d@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270106T130000
-DTEND;TZID=Europe/Brussels:20270106T170000
-SUMMARY:📖 Lichte herhaling ana/histo\, vroeg slapen (deel 2)
-DESCRIPTION:Anki: 130 nieuwe kaarten (Celbio 56 · Biochem 45 · Psycho 29)
-  + alle reviews.\nVolledige planning: dashboard Samenvattingen & Anki — 
- Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:78fef263-815d-5798-bd21-36dccef04f8b@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270106T193000
-DTEND;TZID=Europe/Brussels:20270106T213000
-SUMMARY:🧠 Anki 130 nieuw + reviews
-DESCRIPTION:Anki: 130 nieuwe kaarten (Celbio 56 · Biochem 45 · Psycho 29)
-  + alle reviews.\nVolledige planning: dashboard Samenvattingen & Anki — 
- Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:3257330c-a492-5585-b769-8df305672b49@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270108T083000
-DTEND;TZID=Europe/Brussels:20270108T120000
-SUMMARY:📖 Celbiologie herhaling H1–H3 + proefexamen 1 opnieuw
-DESCRIPTION:Anki: 100 nieuwe kaarten (Celbio 47 · Biochem 32 · Psycho 21)
-  + alle reviews.\nVolledige planning: dashboard Samenvattingen & Anki — 
- Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:83cc342d-5756-5112-8a12-645034080946@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270108T130000
-DTEND;TZID=Europe/Brussels:20270108T170000
-SUMMARY:📖 Celbiologie herhaling H1–H3 + proefexamen 1 opnieuw (deel 2)
-DESCRIPTION:Anki: 100 nieuwe kaarten (Celbio 47 · Biochem 32 · Psycho 21)
-  + alle reviews.\nVolledige planning: dashboard Samenvattingen & Anki — 
- Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:6555562b-aae1-5e96-b779-e5f2fbd8a726@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270108T193000
-DTEND;TZID=Europe/Brussels:20270108T213000
-SUMMARY:🧠 Anki 100 nieuw + reviews
-DESCRIPTION:Anki: 100 nieuwe kaarten (Celbio 47 · Biochem 32 · Psycho 21)
-  + alle reviews.\nVolledige planning: dashboard Samenvattingen & Anki — 
- Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:524f8d7c-c63d-5dff-bcd4-534865ea22ba@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270109T083000
-DTEND;TZID=Europe/Brussels:20270109T120000
-SUMMARY:📖 Celbiologie herhaling H4–H6
-DESCRIPTION:Anki: 99 nieuwe kaarten (Celbio 43 · Biochem 34 · Psycho 22) 
- + alle reviews.\nVolledige planning: dashboard Samenvattingen & Anki — B
- ach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:704b1e85-5976-5ab9-90b8-962ffdc62d95@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270109T193000
-DTEND;TZID=Europe/Brussels:20270109T213000
-SUMMARY:🧠 Anki 99 nieuw + reviews
-DESCRIPTION:Anki: 99 nieuwe kaarten (Celbio 43 · Biochem 34 · Psycho 22) 
- + alle reviews.\nVolledige planning: dashboard Samenvattingen & Anki — B
- ach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:d46814ef-652a-53c2-a1ef-789b5399f3f2@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270110T083000
-DTEND;TZID=Europe/Brussels:20270110T120000
-SUMMARY:📖 Celbiologie H7–H8 + proefexamen 2 opnieuw
-DESCRIPTION:Anki: 100 nieuwe kaarten (Biochem 61 · Psycho 39) + alle revie
- ws.\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:932f757c-e35b-53a1-9c0c-83bc5d4fcb65@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270110T130000
-DTEND;TZID=Europe/Brussels:20270110T170000
-SUMMARY:📖 Celbiologie H7–H8 + proefexamen 2 opnieuw (deel 2)
-DESCRIPTION:Anki: 100 nieuwe kaarten (Biochem 61 · Psycho 39) + alle revie
- ws.\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:45deb5ed-239e-594c-8737-790468eee5ef@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270110T193000
+UID:review-2027-01-10@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
+DTSTART;TZID=Europe/Brussels:20270110T210000
 DTEND;TZID=Europe/Brussels:20270110T213000
-SUMMARY:🧠 Anki 100 nieuw + reviews
-DESCRIPTION:Anki: 100 nieuwe kaarten (Biochem 61 · Psycho 39) + alle revie
- ws.\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
+SUMMARY:🗓️ Weekreview + Anki-screenshot naar Claude
+DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
+  zodat Claude de planning bijstuurt.
 END:VEVENT
 BEGIN:VEVENT
-UID:b0168c1b-31a0-5120-8515-97bd320966a4@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270111T083000
-DTEND;TZID=Europe/Brussels:20270111T120000
-SUMMARY:📖 Celbiologie rekenvragen + formularium\, lichte dag
-DESCRIPTION:Anki: 100 nieuwe kaarten (Biochem 59 · Psycho 41) + alle revie
- ws.\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
+UID:week-2027-01-11@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270118
+TRANSP:TRANSPARENT
+SUMMARY:🎯 W2 · Examen celbie\, dan biochem
+DESCRIPTION:📌 MIJLPALEN\n• di 12/1 EXAMEN celbiologie\n\n📖 VERWERKE
+ N (samenvatting + vragen van Claude)\n• Celbie: ma: rekenvragen + formul
+ arium\n• Biochem: H24\, H25\, Herhaling H1–H20\n\n🧠 ANKI\n• 445 n
+ ieuwe kaarten (Biochem 211 · Psycho 234)\n\nAfvinken in je dashboard "Sam
+ envattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
-UID:5e01bbc0-90a0-5a75-8e0a-0f47dbab5fa4@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270111T130000
-DTEND;TZID=Europe/Brussels:20270111T170000
-SUMMARY:📖 Celbiologie rekenvragen + formularium\, lichte dag (deel 2)
-DESCRIPTION:Anki: 100 nieuwe kaarten (Biochem 59 · Psycho 41) + alle revie
- ws.\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:603d9df8-51d9-55e4-910e-f1652592b679@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270111T193000
-DTEND;TZID=Europe/Brussels:20270111T213000
-SUMMARY:🧠 Anki 100 nieuw + reviews
-DESCRIPTION:Anki: 100 nieuwe kaarten (Biochem 59 · Psycho 41) + alle revie
- ws.\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:70c14954-5ee1-5016-85a6-e1fecde26e2b@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270113T083000
-DTEND;TZID=Europe/Brussels:20270113T120000
-SUMMARY:📖 Biochemie H1–H3
-DESCRIPTION:Anki: 100 nieuwe kaarten (Biochem 59 · Psycho 41) + alle revie
- ws.\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:a3fa708d-77cf-551b-a402-f10a2f5f4f9a@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270113T130000
-DTEND;TZID=Europe/Brussels:20270113T170000
-SUMMARY:📖 Biochemie H1–H3 (deel 2)
-DESCRIPTION:Anki: 100 nieuwe kaarten (Biochem 59 · Psycho 41) + alle revie
- ws.\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:060ac862-22d9-5ce3-96ac-eb535f8f3f89@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270113T193000
-DTEND;TZID=Europe/Brussels:20270113T213000
-SUMMARY:🧠 Anki 100 nieuw + reviews
-DESCRIPTION:Anki: 100 nieuwe kaarten (Biochem 59 · Psycho 41) + alle revie
- ws.\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:5f073fb7-f459-5474-a0a7-aae6dddfcea8@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270114T083000
-DTEND;TZID=Europe/Brussels:20270114T120000
-SUMMARY:📖 Biochemie H5–H6 (bio-energetica\, enzymen)
-DESCRIPTION:Anki: 100 nieuwe kaarten (Biochem 55 · Psycho 45) + alle revie
- ws.\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:b68dfaeb-ccc1-51e3-be22-708be9442b46@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270114T130000
-DTEND;TZID=Europe/Brussels:20270114T170000
-SUMMARY:📖 Biochemie H5–H6 (bio-energetica\, enzymen) (deel 2)
-DESCRIPTION:Anki: 100 nieuwe kaarten (Biochem 55 · Psycho 45) + alle revie
- ws.\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:1bd926a3-a86c-50a4-bd4e-f98bd892f4b4@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270114T193000
-DTEND;TZID=Europe/Brussels:20270114T213000
-SUMMARY:🧠 Anki 100 nieuw + reviews
-DESCRIPTION:Anki: 100 nieuwe kaarten (Biochem 55 · Psycho 45) + alle revie
- ws.\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:626c97d8-fb3c-5cbb-9f06-42f080095005@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270115T083000
-DTEND;TZID=Europe/Brussels:20270115T120000
-SUMMARY:📖 Biochemie H9–H10 (metabolisme)
-DESCRIPTION:Anki: 100 nieuwe kaarten (Biochem 38 · Psycho 62) + alle revie
- ws.\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:09ed7219-9b79-5f5b-84af-57517b0d0817@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270115T130000
-DTEND;TZID=Europe/Brussels:20270115T170000
-SUMMARY:📖 Biochemie H9–H10 (metabolisme) (deel 2)
-DESCRIPTION:Anki: 100 nieuwe kaarten (Biochem 38 · Psycho 62) + alle revie
- ws.\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:5534d928-1ac9-5a80-ab9e-ac271f9784be@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270115T193000
-DTEND;TZID=Europe/Brussels:20270115T213000
-SUMMARY:🧠 Anki 100 nieuw + reviews
-DESCRIPTION:Anki: 100 nieuwe kaarten (Biochem 38 · Psycho 62) + alle revie
- ws.\nVolledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:712b3428-3082-559d-97e1-29a792caaaa0@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270116T083000
-DTEND;TZID=Europe/Brussels:20270116T120000
-SUMMARY:📖 Biochemie H16–H17
-DESCRIPTION:Anki: 45 nieuwe kaarten (Psycho 45) + alle reviews.\nVolledige 
- planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:87ba75ea-3477-5e8c-8f83-21ee2ef779f0@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270116T193000
-DTEND;TZID=Europe/Brussels:20270116T213000
-SUMMARY:🧠 Anki 45 nieuw + reviews
-DESCRIPTION:Anki: 45 nieuwe kaarten (Psycho 45) + alle reviews.\nVolledige 
- planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:03bb344d-af2f-5a03-a1b0-4d0ada8f3a46@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270117T083000
-DTEND;TZID=Europe/Brussels:20270117T120000
-SUMMARY:📖 Biochemie H18–H19
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:5bbf2f77-ab2e-51aa-b92f-4d5bd6e1f34b@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270117T130000
-DTEND;TZID=Europe/Brussels:20270117T170000
-SUMMARY:📖 Biochemie H18–H19 (deel 2)
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:8c83b41c-6c40-5a68-8444-f2ee6fcf0f53@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270117T193000
+UID:review-2027-01-17@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
+DTSTART;TZID=Europe/Brussels:20270117T210000
 DTEND;TZID=Europe/Brussels:20270117T213000
-SUMMARY:🧠 Anki reviews
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
+SUMMARY:🗓️ Weekreview + Anki-screenshot naar Claude
+DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
+  zodat Claude de planning bijstuurt.
 END:VEVENT
 BEGIN:VEVENT
-UID:8c2eee51-b1d5-5a4a-8ec3-a639d57d7f59@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270118T083000
-DTEND;TZID=Europe/Brussels:20270118T120000
-SUMMARY:📖 Biochemie H20\, H24–H25
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
+UID:week-2027-01-18@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270125
+TRANSP:TRANSPARENT
+SUMMARY:🎯 W3 · Examen biochem\, dan psycho
+DESCRIPTION:📌 MIJLPALEN\n• do 21/1 EXAMEN biochemie\n\n📖 VERWERKEN 
+ (samenvatting + vragen van Claude)\n• Biochem: Oefenvragen + werkzitting
+ en + proefexamen\n• Psycho: D3 L1\, D3 L2\, D3 L3\, D3 L4\, D3 L5\, Herh
+ aling deel I + II\n\nAfvinken in je dashboard "Samenvattingen & Anki — B
+ ach 1".
 END:VEVENT
 BEGIN:VEVENT
-UID:9a550d24-542d-521e-b14b-e1a0fe93850d@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270118T130000
-DTEND;TZID=Europe/Brussels:20270118T170000
-SUMMARY:📖 Biochemie H20\, H24–H25 (deel 2)
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:3e254269-9600-54bd-8e62-b644f81cca01@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270118T193000
-DTEND;TZID=Europe/Brussels:20270118T213000
-SUMMARY:🧠 Anki reviews
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:8bd6639d-6b47-53cf-b49a-f4c45196cfd8@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270119T083000
-DTEND;TZID=Europe/Brussels:20270119T120000
-SUMMARY:📖 Biochemie oefenvragen + werkzittingen + proefexamen
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:ef150703-68e1-5b47-9b28-e416f25fbbff@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270119T130000
-DTEND;TZID=Europe/Brussels:20270119T170000
-SUMMARY:📖 Biochemie oefenvragen + werkzittingen + proefexamen (deel 2)
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:00686983-262f-51c5-a27c-28963475a413@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270119T193000
-DTEND;TZID=Europe/Brussels:20270119T213000
-SUMMARY:🧠 Anki reviews
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:3d1a832e-3b5a-51b7-b2ad-147e74f559c2@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270120T083000
-DTEND;TZID=Europe/Brussels:20270120T120000
-SUMMARY:📖 Biochemie zwakke punten\, lichte dag
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:db19d855-36f2-5ebf-bb62-c56ba3dd1aa9@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270120T130000
-DTEND;TZID=Europe/Brussels:20270120T170000
-SUMMARY:📖 Biochemie zwakke punten\, lichte dag (deel 2)
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:f6018c14-f523-5579-9ff6-16c75e2b182f@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270120T193000
-DTEND;TZID=Europe/Brussels:20270120T213000
-SUMMARY:🧠 Anki reviews
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:86ab7ce3-d8b7-5ae7-8a54-5087e5261a7a@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270122T083000
-DTEND;TZID=Europe/Brussels:20270122T120000
-SUMMARY:📖 Psychologie deel I
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:a11f17de-67ac-53f1-bff3-ec520ee84790@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270122T130000
-DTEND;TZID=Europe/Brussels:20270122T170000
-SUMMARY:📖 Psychologie deel I (deel 2)
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:eee1c32d-509e-5adc-8a30-a5fd203e5a1c@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270122T193000
-DTEND;TZID=Europe/Brussels:20270122T213000
-SUMMARY:🧠 Anki reviews
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:dcb51cd2-a01f-5495-9ec8-74ff317a0251@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270123T083000
-DTEND;TZID=Europe/Brussels:20270123T120000
-SUMMARY:📖 Psychologie deel II
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:1bc8012c-dea9-5553-ab4f-e1d9c2bf6ce7@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270123T193000
-DTEND;TZID=Europe/Brussels:20270123T213000
-SUMMARY:🧠 Anki reviews
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:40f2189f-6247-5111-8fe0-c533819bc948@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270124T083000
-DTEND;TZID=Europe/Brussels:20270124T120000
-SUMMARY:📖 Psychologie deel III
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:c587668a-6776-5196-8430-a3d3e7c1a288@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270124T130000
-DTEND;TZID=Europe/Brussels:20270124T170000
-SUMMARY:📖 Psychologie deel III (deel 2)
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:ec54a8a9-e1ff-584d-ad4c-66690f9b4d0a@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270124T193000
+UID:review-2027-01-24@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
+DTSTART;TZID=Europe/Brussels:20270124T210000
 DTEND;TZID=Europe/Brussels:20270124T213000
-SUMMARY:🧠 Anki reviews
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
+SUMMARY:🗓️ Weekreview + Anki-screenshot naar Claude
+DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
+  zodat Claude de planning bijstuurt.
 END:VEVENT
 BEGIN:VEVENT
-UID:8a0c5ca1-ae6a-5e8f-8069-16d396f7608e@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270125T083000
-DTEND;TZID=Europe/Brussels:20270125T120000
-SUMMARY:📖 Psychologie oefenvragen + herhaling
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
+UID:week-2027-01-25@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270201
+TRANSP:TRANSPARENT
+SUMMARY:🎯 W4 · Laatste examen
+DESCRIPTION:📌 MIJLPALEN\n• di 26/1 EXAMEN psychologie\n\n📖 VERWERKE
+ N (samenvatting + vragen van Claude)\n• Psycho: ma: oefenvragen (studocu
+ ) + herhaling\n\nAfvinken in je dashboard "Samenvattingen & Anki — Bach 
+ 1".
 END:VEVENT
 BEGIN:VEVENT
-UID:4f5d267f-46a0-5013-a234-faa0f7759e7d@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270125T130000
-DTEND;TZID=Europe/Brussels:20270125T170000
-SUMMARY:📖 Psychologie oefenvragen + herhaling (deel 2)
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
-END:VEVENT
-BEGIN:VEVENT
-UID:91211395-3351-58e5-a758-c53b7173f731@studieplanning-ilyas
-DTSTAMP:20261108T204125Z
-DTSTART;TZID=Europe/Brussels:20270125T193000
-DTEND;TZID=Europe/Brussels:20270125T213000
-SUMMARY:🧠 Anki reviews
-DESCRIPTION:Volledige planning: dashboard Samenvattingen & Anki — Bach 1
+UID:celbio-pe2@studieplanning-ilyas
+DTSTAMP:20261108T210612Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261211
+TRANSP:TRANSPARENT
+SUMMARY:🟨 Celbie proefexamen 2 (online)
+DESCRIPTION:Online via Toledo\, open van 7 t.e.m. 10 december. Zelfde vorm 
+ als het examen.
 END:VEVENT
 END:VCALENDAR
