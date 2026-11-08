@@ -1,5 +1,6 @@
 id,week,week_label,thema,type,vak,doel
-2026-11-09-71ff020a,2026-11-09,W46 · 9 nov – 15 nov,Proefexamenweek,Mijlpaal,Vaardigheden,do 12/11 praktijkproef
+2026-11-09-5025b1a4,2026-11-09,W46 · 9 nov – 15 nov,Proefexamenweek,Mijlpaal,Vaardigheden,di 10/11 ZLS venapunctie + infuus
+2026-11-09-405852de,2026-11-09,W46 · 9 nov – 15 nov,Proefexamenweek,Mijlpaal,Vaardigheden,do 12/11 ZLS-practica + 15u praktijktest
 2026-11-09-92dcd2d1,2026-11-09,W46 · 9 nov – 15 nov,Proefexamenweek,Mijlpaal,Biochemie,vr 13/11 09:45 proefexamen
 2026-11-09-fdc91d74,2026-11-09,W46 · 9 nov – 15 nov,Proefexamenweek,Verwerken,Biochemie,H1
 2026-11-09-e7506981,2026-11-09,W46 · 9 nov – 15 nov,Proefexamenweek,Verwerken,Biochemie,H2
@@ -10,7 +11,7 @@ id,week,week_label,thema,type,vak,doel
 2026-11-09-77e6fd92,2026-11-09,W46 · 9 nov – 15 nov,Proefexamenweek,Verwerken,Biochemie,H10
 2026-11-09-ef63c977,2026-11-09,W46 · 9 nov – 15 nov,Proefexamenweek,Bijhouden,Celbiologie,SV + Anki H5.3 en H5.4
 2026-11-09-204d9b32,2026-11-09,W46 · 9 nov – 15 nov,Proefexamenweek,Bijhouden,Anatomie I,Les vr 13/11: SV + Anki
-2026-11-09-8f142a60,2026-11-09,W46 · 9 nov – 15 nov,Proefexamenweek,Mijlpaal,Scouts,za–zo welpenweekend: enkel Anki
+2026-11-09-375d29b9,2026-11-09,W46 · 9 nov – 15 nov,Proefexamenweek,Mijlpaal,Scouts,za 14/11 vanaf 12u takweekend: enkel Anki
 2026-11-09-f6c3f45a,2026-11-09,W46 · 9 nov – 15 nov,Proefexamenweek,Anki,Alle,448 nieuwe kaarten (Ana 99 · Histo 45 · Celbie 132 · Biochem 104 · Psycho 68)
 2026-11-16-f422627f,2026-11-16,W47 · 16 nov – 22 nov,Histo + celbie starten,Verwerken,Histologie,H1
 2026-11-16-a0eb3a67,2026-11-16,W47 · 16 nov – 22 nov,Histo + celbie starten,Verwerken,Histologie,H3
@@ -20,6 +21,8 @@ id,week,week_label,thema,type,vak,doel
 2026-11-16-1cff413d,2026-11-16,W47 · 16 nov – 22 nov,Histo + celbie starten,Verwerken,Celbiologie,H2
 2026-11-16-99028031,2026-11-16,W47 · 16 nov – 22 nov,Histo + celbie starten,Mijlpaal,Anatomie I,wo 18/11 practicum vaardigheidscentrum (inschrijven via AA)
 2026-11-16-71647f82,2026-11-16,W47 · 16 nov – 22 nov,Histo + celbie starten,Mijlpaal,Histologie,do 19/11 oefenzitting
+2026-11-16-92c19e49,2026-11-16,W47 · 16 nov – 22 nov,Histo + celbie starten,Mijlpaal,Biochemie,vr 20/11 werkzitting 4
+2026-11-16-22585eae,2026-11-16,W47 · 16 nov – 22 nov,Histo + celbie starten,Mijlpaal,Scouts,do 19/11 deadline info doorgeven scone
 2026-11-16-0d5ab8b9,2026-11-16,W47 · 16 nov – 22 nov,Histo + celbie starten,Bijhouden,Histologie,H9 zenuwweefsel (les 10/11): SV + Anki
 2026-11-16-74df55a3,2026-11-16,W47 · 16 nov – 22 nov,Histo + celbie starten,Bijhouden,Anatomie I,Nieuwe lessen Vander Poorten (wo 18 + vr 20/11): SV + Anki
 2026-11-16-ec64af4f,2026-11-16,W47 · 16 nov – 22 nov,Histo + celbie starten,Bijhouden,Alle,Nieuwe lessen: SV + Anki binnen 48u
@@ -37,6 +40,7 @@ id,week,week_label,thema,type,vak,doel
 2026-11-23-ec64af4f,2026-11-23,W48 · 23 nov – 29 nov,Histo afwerken + celbie transport,Bijhouden,Alle,Nieuwe lessen: SV + Anki binnen 48u
 2026-11-23-f6c3f45a,2026-11-23,W48 · 23 nov – 29 nov,Histo afwerken + celbie transport,Anki,Alle,678 nieuwe kaarten (Ana 153 · Histo 68 · Celbie 198 · Biochem 157 · Psycho 102)
 2026-11-30-33769057,2026-11-30,W49 · 30 nov – 6 dec,Celbie + moleculaire biologie,Mijlpaal,Celbiologie,di 1/12 + vr 4/12 werkzittingen
+2026-11-30-9407ac0d,2026-11-30,W49 · 30 nov – 6 dec,Celbie + moleculaire biologie,Mijlpaal,Biochemie,vr 4/12 werkzitting 5
 2026-11-30-b776bc90,2026-11-30,W49 · 30 nov – 6 dec,Celbie + moleculaire biologie,Mijlpaal,Histologie,do 3/12 laatste oefenzitting
 2026-11-30-b175eab5,2026-11-30,W49 · 30 nov – 6 dec,Celbie + moleculaire biologie,Verwerken,Celbiologie,H3.5
 2026-11-30-cf17f10c,2026-11-30,W49 · 30 nov – 6 dec,Celbie + moleculaire biologie,Verwerken,Celbiologie,H3.6
@@ -49,7 +53,9 @@ id,week,week_label,thema,type,vak,doel
 2026-11-30-88ca3afa,2026-11-30,W49 · 30 nov – 6 dec,Celbie + moleculaire biologie,Verwerken,Biochemie,H17
 2026-11-30-ec64af4f,2026-11-30,W49 · 30 nov – 6 dec,Celbie + moleculaire biologie,Bijhouden,Alle,Nieuwe lessen: SV + Anki binnen 48u
 2026-11-30-f6c3f45a,2026-11-30,W49 · 30 nov – 6 dec,Celbie + moleculaire biologie,Anki,Alle,678 nieuwe kaarten (Ana 153 · Histo 68 · Celbie 198 · Biochem 157 · Psycho 102)
-2026-12-07-5b006dbe,2026-12-07,W50 · 7 dec – 13 dec,Proefexamens + psycho deel I,Mijlpaal,Celbiologie,Proefexamen 2 online (7–10/12)
+2026-12-07-8d87b72c,2026-12-07,W50 · 7 dec – 13 dec,Proefexamens + psycho deel I,Mijlpaal,Celbiologie,ma 7/12 of di 8/12 formatieve toets H4–H8
+2026-12-07-5031a96c,2026-12-07,W50 · 7 dec – 13 dec,Proefexamens + psycho deel I,Mijlpaal,Vaardigheden,di 8/12 deadline verpleegkundestage
+2026-12-07-2b10a78c,2026-12-07,W50 · 7 dec – 13 dec,Proefexamens + psycho deel I,Mijlpaal,Vaardigheden,zo 13/12 deadline e-learnings
 2026-12-07-e56f730a,2026-12-07,W50 · 7 dec – 13 dec,Proefexamens + psycho deel I,Mijlpaal,Psychologie voor artsen,di 8/12 laatste psycho-les
 2026-12-07-7d91c570,2026-12-07,W50 · 7 dec – 13 dec,Proefexamens + psycho deel I,Mijlpaal,Celbiologie,vr 11/12 werkzitting 4
 2026-12-07-59e7b381,2026-12-07,W50 · 7 dec – 13 dec,Proefexamens + psycho deel I,Mijlpaal,Anatomie I,wo 9/12 voorbeeldexamen + vragencollege
@@ -67,6 +73,7 @@ id,week,week_label,thema,type,vak,doel
 2026-12-14-8bc03f52,2026-12-14,W51 · 14 dec – 20 dec,Laatste lesweek,Mijlpaal,Celbiologie,ma 14 + di 15/12 herhalingslessen
 2026-12-14-0e495d8d,2026-12-14,W51 · 14 dec – 20 dec,Laatste lesweek,Mijlpaal,Biochemie,wo 16/12 werkzitting 6
 2026-12-14-b381abf8,2026-12-14,W51 · 14 dec – 20 dec,Laatste lesweek,Mijlpaal,Anatomie I,wo 16/12 laatste ana-les
+2026-12-14-c787847e,2026-12-14,W51 · 14 dec – 20 dec,Laatste lesweek,Mijlpaal,Vaardigheden,vr 18/12 deadline kwaliteitsbeleid
 2026-12-14-87872f75,2026-12-14,W51 · 14 dec – 20 dec,Laatste lesweek,Verwerken,Biochemie,H18
 2026-12-14-5fb49862,2026-12-14,W51 · 14 dec – 20 dec,Laatste lesweek,Verwerken,Biochemie,H19
 2026-12-14-3dc28139,2026-12-14,W51 · 14 dec – 20 dec,Laatste lesweek,Verwerken,Biochemie,H20
