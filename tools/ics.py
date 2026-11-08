@@ -30,7 +30,7 @@ for wk,gs in W.items():
     add(f'week-{wk}',f"{wn} · {gs[0]['thema']}",'\n\n'.join(parts),m,m+dt.timedelta(7))
     sun=m+dt.timedelta(6)
     if sun<=dt.date(2027,1,24):
-        add(f'review-{sun}','Weekreview + Anki-screenshot naar Claude','Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen zodat Claude de planning bijstuurt.',s=dt.datetime(sun.year,sun.month,sun.day,21,0),e=dt.datetime(sun.year,sun.month,sun.day,21,30))
+        add(f'review-{sun}','Weekreview: verwerkte hoofdstukken afvinken','Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u13 herplant Claude automatisch wat bleef liggen.',s=dt.datetime(sun.year,sun.month,sun.day,21,0),e=dt.datetime(sun.year,sun.month,sun.day,21,30))
 tz="""BEGIN:VTIMEZONE
 TZID:Europe/Brussels
 BEGIN:STANDARD

@@ -25,7 +25,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:week-2026-11-09@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261116
 TRANSP:TRANSPARENT
@@ -38,16 +38,16 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Biochem: H1\,
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-11-15@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;TZID=Europe/Brussels:20261115T210000
 DTEND;TZID=Europe/Brussels:20261115T213000
-SUMMARY:Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
-  zodat Claude de planning bijstuurt.
+SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
+DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
+ 3 herplant Claude automatisch wat bleef liggen.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-11-16@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261123
 TRANSP:TRANSPARENT
@@ -61,16 +61,16 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Histo: H1\, H
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-11-22@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;TZID=Europe/Brussels:20261122T210000
 DTEND;TZID=Europe/Brussels:20261122T213000
-SUMMARY:Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
-  zodat Claude de planning bijstuurt.
+SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
+DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
+ 3 herplant Claude automatisch wat bleef liggen.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-11-23@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -83,16 +83,16 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Histo: H6\, H
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-11-29@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;TZID=Europe/Brussels:20261129T210000
 DTEND;TZID=Europe/Brussels:20261129T213000
-SUMMARY:Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
-  zodat Claude de planning bijstuurt.
+SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
+DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
+ 3 herplant Claude automatisch wat bleef liggen.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-11-30@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261207
 TRANSP:TRANSPARENT
@@ -105,16 +105,16 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Celbie: H3.5\
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-12-06@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;TZID=Europe/Brussels:20261206T210000
 DTEND;TZID=Europe/Brussels:20261206T213000
-SUMMARY:Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
-  zodat Claude de planning bijstuurt.
+SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
+DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
+ 3 herplant Claude automatisch wat bleef liggen.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-12-07@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261214
 TRANSP:TRANSPARENT
@@ -127,16 +127,16 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Celbie: H5.1\
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-12-13@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;TZID=Europe/Brussels:20261213T210000
 DTEND;TZID=Europe/Brussels:20261213T213000
-SUMMARY:Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
-  zodat Claude de planning bijstuurt.
+SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
+DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
+ 3 herplant Claude automatisch wat bleef liggen.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-12-14@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261221
 TRANSP:TRANSPARENT
@@ -149,16 +149,16 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Biochem: H18\
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-12-20@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;TZID=Europe/Brussels:20261220T210000
 DTEND;TZID=Europe/Brussels:20261220T213000
-SUMMARY:Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
-  zodat Claude de planning bijstuurt.
+SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
+DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
+ 3 herplant Claude automatisch wat bleef liggen.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-12-21@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261228
 TRANSP:TRANSPARENT
@@ -171,16 +171,16 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Ana: M1\, M2
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-12-27@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;TZID=Europe/Brussels:20261227T210000
 DTEND;TZID=Europe/Brussels:20261227T213000
-SUMMARY:Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
-  zodat Claude de planning bijstuurt.
+SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
+DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
+ 3 herplant Claude automatisch wat bleef liggen.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-12-28@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20270104
 TRANSP:TRANSPARENT
@@ -195,16 +195,16 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Ana: M4 biome
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2027-01-03@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;TZID=Europe/Brussels:20270103T210000
 DTEND;TZID=Europe/Brussels:20270103T213000
-SUMMARY:Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
-  zodat Claude de planning bijstuurt.
+SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
+DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
+ 3 herplant Claude automatisch wat bleef liggen.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2027-01-04@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270111
 TRANSP:TRANSPARENT
@@ -217,16 +217,16 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Ana: ma–di:
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2027-01-10@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;TZID=Europe/Brussels:20270110T210000
 DTEND;TZID=Europe/Brussels:20270110T213000
-SUMMARY:Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
-  zodat Claude de planning bijstuurt.
+SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
+DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
+ 3 herplant Claude automatisch wat bleef liggen.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2027-01-11@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270118
 TRANSP:TRANSPARENT
@@ -238,16 +238,16 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Celbie: ma: r
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2027-01-17@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;TZID=Europe/Brussels:20270117T210000
 DTEND;TZID=Europe/Brussels:20270117T213000
-SUMMARY:Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
-  zodat Claude de planning bijstuurt.
+SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
+DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
+ 3 herplant Claude automatisch wat bleef liggen.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2027-01-18@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270125
 TRANSP:TRANSPARENT
@@ -259,16 +259,16 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Biochem: Oefe
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2027-01-24@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;TZID=Europe/Brussels:20270124T210000
 DTEND;TZID=Europe/Brussels:20270124T213000
-SUMMARY:Weekreview + Anki-screenshot naar Claude
-DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
-  zodat Claude de planning bijstuurt.
+SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
+DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
+ 3 herplant Claude automatisch wat bleef liggen.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2027-01-25@studieplanning-ilyas
-DTSTAMP:20261108T213803Z
+DTSTAMP:20261108T214149Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270201
 TRANSP:TRANSPARENT
