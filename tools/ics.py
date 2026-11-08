@@ -32,7 +32,6 @@ for wk,gs in W.items():
     sun=m+dt.timedelta(6)
     if sun<=dt.date(2027,1,24):
         add(f'review-{sun}','Weekreview + Anki-screenshot naar Claude','Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen zodat Claude de planning bijstuurt.',s=dt.datetime(sun.year,sun.month,sun.day,21,0),e=dt.datetime(sun.year,sun.month,sun.day,21,30))
-add('celbio-pe2','Celbie proefexamen 2 (online)','Online via Toledo, open van 7 t.e.m. 10 december. Zelfde vorm als het examen.',dt.date(2026,12,7),dt.date(2026,12,11))
 tz="""BEGIN:VTIMEZONE
 TZID:Europe/Brussels
 BEGIN:STANDARD
