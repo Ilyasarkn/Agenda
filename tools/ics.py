@@ -17,7 +17,6 @@ for wk,gs in W.items():
     m=dt.date.fromisoformat(wk); wn=gs[0]['week_label'].split(' · ')[0]
     parts=[]
     ms=[(SHORT[g['vak']]+': ' if g['vak'] in SHORT else '')+g['doel'] for g in gs if g['type']=='Mijlpaal']
-    if ms: parts.append('MIJLPALEN\n'+'\n'.join('• '+x for x in ms))
     vw=[g for g in gs if g['type']=='Verwerken']
     if vw:
         byv=collections.OrderedDict()

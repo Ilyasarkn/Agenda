@@ -25,23 +25,20 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:week-2026-11-09@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261116
 TRANSP:TRANSPARENT
 SUMMARY:W46 · Proefexamenweek
-DESCRIPTION:MIJLPALEN\n• di 10/11 ZLS venapunctie + infuus\n• do 12/11 
- ZLS-practica + 15u praktijktest\n• Biochem: vr 13/11 09:45 proefexamen\n
- • za 14/11 vanaf 12u takweekend: enkel Anki\n\nVERWERKEN (samenvatting +
-  vragen van Claude)\n• Biochem: H1\, H2\, H3\, H5\, H6\, H9\, H10\n\nBIJ
- HOUDEN\n• Celbie: SV + Anki H5.3 en H5.4\n• Ana: Les vr 13/11: SV + An
- ki\n\nANKI\n• 448 nieuwe kaarten (Ana 99 · Histo 45 · Celbie 132 · Bi
- ochem 104 · Psycho 68)\n\nAfvinken in je dashboard "Samenvattingen & Anki
-  — Bach 1".
+DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Biochem: H1\,
+  H2\, H3\, H5\, H6\, H9\, H10\n\nBIJHOUDEN\n• Celbie: SV + Anki H5.3 en 
+ H5.4\n• Ana: Les vr 13/11: SV + Anki\n\nANKI\n• 448 nieuwe kaarten (An
+ a 99 · Histo 45 · Celbie 132 · Biochem 104 · Psycho 68)\n\nAfvinken in
+  je dashboard "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-11-15@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;TZID=Europe/Brussels:20261115T210000
 DTEND;TZID=Europe/Brussels:20261115T213000
 SUMMARY:Weekreview + Anki-screenshot naar Claude
@@ -50,24 +47,21 @@ DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-11-16@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261123
 TRANSP:TRANSPARENT
 SUMMARY:W47 · Histo + celbie starten
-DESCRIPTION:MIJLPALEN\n• Ana: wo 18/11 practicum vaardigheidscentrum (ins
- chrijven via AA)\n• Histo: do 19/11 oefenzitting\n• Biochem: vr 20/11 
- werkzitting 4\n• do 19/11 deadline info doorgeven scone\n\nVERWERKEN (sa
- menvatting + vragen van Claude)\n• Histo: H1\, H3\, H4\, H5\n• Celbie:
-  H1\, H2\n\nBIJHOUDEN\n• Histo: H9 zenuwweefsel (les 10/11): SV + Anki\n
- • Ana: Nieuwe lessen Vander Poorten (wo 18 + vr 20/11): SV + Anki\n• N
- ieuwe lessen: SV + Anki binnen 48u\n\nANKI\n• 678 nieuwe kaarten (Ana 15
- 3 · Histo 68 · Celbie 198 · Biochem 157 · Psycho 102)\n\nAfvinken in j
- e dashboard "Samenvattingen & Anki — Bach 1".
+DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Histo: H1\, H
+ 3\, H4\, H5\n• Celbie: H1\, H2\n\nBIJHOUDEN\n• Histo: H9 zenuwweefsel 
+ (les 10/11): SV + Anki\n• Ana: Nieuwe lessen Vander Poorten (wo 18 + vr 
+ 20/11): SV + Anki\n• Nieuwe lessen: SV + Anki binnen 48u\n\nANKI\n• 67
+ 8 nieuwe kaarten (Ana 153 · Histo 68 · Celbie 198 · Biochem 157 · Psyc
+ ho 102)\n\nAfvinken in je dashboard "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-11-22@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;TZID=Europe/Brussels:20261122T210000
 DTEND;TZID=Europe/Brussels:20261122T213000
 SUMMARY:Weekreview + Anki-screenshot naar Claude
@@ -76,21 +70,20 @@ DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-11-23@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
 SUMMARY:W48 · Histo afwerken + celbie transport
-DESCRIPTION:MIJLPALEN\n• Ana: wo 25 + vr 27/11 practica (inschrijven via 
- AA)\n• Histo: do 26/11 oefenzitting\n\nVERWERKEN (samenvatting + vragen 
- van Claude)\n• Histo: H6\, H7\, H8\, H9\n• Celbie: H3.1\, H3.2\, H3.3\
- , H3.4\n\nBIJHOUDEN\n• Nieuwe lessen: SV + Anki binnen 48u\n\nANKI\n• 
- 678 nieuwe kaarten (Ana 153 · Histo 68 · Celbie 198 · Biochem 157 · Ps
- ycho 102)\n\nAfvinken in je dashboard "Samenvattingen & Anki — Bach 1".
+DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Histo: H6\, H
+ 7\, H8\, H9\n• Celbie: H3.1\, H3.2\, H3.3\, H3.4\n\nBIJHOUDEN\n• Nieuw
+ e lessen: SV + Anki binnen 48u\n\nANKI\n• 678 nieuwe kaarten (Ana 153 ·
+  Histo 68 · Celbie 198 · Biochem 157 · Psycho 102)\n\nAfvinken in je da
+ shboard "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-11-29@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;TZID=Europe/Brussels:20261129T210000
 DTEND;TZID=Europe/Brussels:20261129T213000
 SUMMARY:Weekreview + Anki-screenshot naar Claude
@@ -99,22 +92,20 @@ DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-11-30@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261207
 TRANSP:TRANSPARENT
 SUMMARY:W49 · Celbie + moleculaire biologie
-DESCRIPTION:MIJLPALEN\n• Celbie: di 1/12 + vr 4/12 werkzittingen\n• Bio
- chem: vr 4/12 werkzitting 5\n• Histo: do 3/12 laatste oefenzitting\n\nVE
- RWERKEN (samenvatting + vragen van Claude)\n• Celbie: H3.5\, H3.6\, H3.7
- \, H3.8\, H4.1\, H4.2\, H4.3\n• Biochem: H16\, H17\n\nBIJHOUDEN\n• Nie
- uwe lessen: SV + Anki binnen 48u\n\nANKI\n• 678 nieuwe kaarten (Ana 153 
- · Histo 68 · Celbie 198 · Biochem 157 · Psycho 102)\n\nAfvinken in je 
- dashboard "Samenvattingen & Anki — Bach 1".
+DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Celbie: H3.5\
+ , H3.6\, H3.7\, H3.8\, H4.1\, H4.2\, H4.3\n• Biochem: H16\, H17\n\nBIJHO
+ UDEN\n• Nieuwe lessen: SV + Anki binnen 48u\n\nANKI\n• 678 nieuwe kaar
+ ten (Ana 153 · Histo 68 · Celbie 198 · Biochem 157 · Psycho 102)\n\nAf
+ vinken in je dashboard "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-12-06@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;TZID=Europe/Brussels:20261206T210000
 DTEND;TZID=Europe/Brussels:20261206T213000
 SUMMARY:Weekreview + Anki-screenshot naar Claude
@@ -123,24 +114,20 @@ DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-12-07@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261214
 TRANSP:TRANSPARENT
 SUMMARY:W50 · Proefexamens + psycho deel I
-DESCRIPTION:MIJLPALEN\n• Celbie: ma 7/12 of di 8/12 formatieve toets H4
- –H8\n• di 8/12 deadline verpleegkundestage\n• zo 13/12 deadline e-le
- arnings\n• Psycho: di 8/12 laatste psycho-les\n• Celbie: vr 11/12 werk
- zitting 4\n• Ana: wo 9/12 voorbeeldexamen + vragencollege\n\nVERWERKEN (
- samenvatting + vragen van Claude)\n• Celbie: H5.1\, H5.2\, H5.3\, H5.4\n
- • Psycho: D1 L1\, D1 L2\, D1 L3\, D1 L4\, D1 L5\n\nBIJHOUDEN\n• Nieuwe
-  lessen: SV + Anki binnen 48u\n\nANKI\n• 674 nieuwe kaarten (Ana 153 · 
- Histo 68 · Celbie 198 · Biochem 153 · Psycho 102)\n\nAfvinken in je das
- hboard "Samenvattingen & Anki — Bach 1".
+DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Celbie: H5.1\
+ , H5.2\, H5.3\, H5.4\n• Psycho: D1 L1\, D1 L2\, D1 L3\, D1 L4\, D1 L5\n\
+ nBIJHOUDEN\n• Nieuwe lessen: SV + Anki binnen 48u\n\nANKI\n• 674 nieuw
+ e kaarten (Ana 153 · Histo 68 · Celbie 198 · Biochem 153 · Psycho 102)
+ \n\nAfvinken in je dashboard "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-12-13@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;TZID=Europe/Brussels:20261213T210000
 DTEND;TZID=Europe/Brussels:20261213T213000
 SUMMARY:Weekreview + Anki-screenshot naar Claude
@@ -149,23 +136,20 @@ DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-12-14@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261221
 TRANSP:TRANSPARENT
 SUMMARY:W51 · Laatste lesweek
-DESCRIPTION:MIJLPALEN\n• Celbie: ma 14 + di 15/12 herhalingslessen\n• B
- iochem: wo 16/12 werkzitting 6\n• Ana: wo 16/12 laatste ana-les\n• vr 
- 18/12 deadline kwaliteitsbeleid\n• za 19/12 start blok\n\nVERWERKEN (sam
- envatting + vragen van Claude)\n• Biochem: H18\, H19\, H20\n• Psycho: 
- D2 L1\, D2 L2\, D2 L3\, D2 L4\n\nBIJHOUDEN\n• Tegen zo 20/12 ALLE SV + d
- ecks klaar (ook biochem H25)\n\nANKI\n• 817 nieuwe kaarten (Ana 190 · H
- isto 82 · Celbie 239 · Biochem 184 · Psycho 122)\n\nAfvinken in je dash
- board "Samenvattingen & Anki — Bach 1".
+DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Biochem: H18\
+ , H19\, H20\n• Psycho: D2 L1\, D2 L2\, D2 L3\, D2 L4\n\nBIJHOUDEN\n• T
+ egen zo 20/12 ALLE SV + decks klaar (ook biochem H25)\n\nANKI\n• 817 nie
+ uwe kaarten (Ana 190 · Histo 82 · Celbie 239 · Biochem 184 · Psycho 12
+ 2)\n\nAfvinken in je dashboard "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-12-20@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;TZID=Europe/Brussels:20261220T210000
 DTEND;TZID=Europe/Brussels:20261220T213000
 SUMMARY:Weekreview + Anki-screenshot naar Claude
@@ -174,21 +158,20 @@ DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-12-21@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261228
 TRANSP:TRANSPARENT
 SUMMARY:W52 · Blok: anatomie
-DESCRIPTION:MIJLPALEN\n• vr 25/12 Kerstmis: vrij\n\nVERWERKEN (samenvatti
- ng + vragen van Claude)\n• Ana: M1\, M2 H1\, M2 H2\, M2 H3\, M2 H4\, M2 
- H5\, M2 H6\, M3 H1\, M3 H2\, M3 H3\n• Histo: Beeldherkenning H1–H9\n\n
- ANKI\n• 748 nieuwe kaarten (Ana 175 · Histo 77 · Celbie 220 · Biochem
-  167 · Psycho 109)\n\nAfvinken in je dashboard "Samenvattingen & Anki —
-  Bach 1".
+DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Ana: M1\, M2 
+ H1\, M2 H2\, M2 H3\, M2 H4\, M2 H5\, M2 H6\, M3 H1\, M3 H2\, M3 H3\n• Hi
+ sto: Beeldherkenning H1–H9\n\nANKI\n• 748 nieuwe kaarten (Ana 175 · H
+ isto 77 · Celbie 220 · Biochem 167 · Psycho 109)\n\nAfvinken in je dash
+ board "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-12-27@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;TZID=Europe/Brussels:20261227T210000
 DTEND;TZID=Europe/Brussels:20261227T213000
 SUMMARY:Weekreview + Anki-screenshot naar Claude
@@ -197,22 +180,22 @@ DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-12-28@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20270104
 TRANSP:TRANSPARENT
 SUMMARY:W53 · Blok: celbie H6–H8 + ana afronden
-DESCRIPTION:MIJLPALEN\n• vr 1/1 Nieuwjaar: vrij\n\nVERWERKEN (samenvattin
- g + vragen van Claude)\n• Ana: M4 biomechanica\, Functionele anatomie ru
- g\, Functionele anatomie hals/nek\, Lessen Vander Poorten (hoofd-hals?)\, 
- Lessen Wolthuis (buik/thorax?)\, Les 16/12\, Oefenexamen ana + histo (stud
- ocu)\n• Celbie: H6\, H7\, H8\n\nANKI\n• 754 nieuwe kaarten (Ana 198 ·
-  Histo 88 · Celbie 211 · Biochem 155 · Psycho 102)\n\nAfvinken in je da
- shboard "Samenvattingen & Anki — Bach 1".
+DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Ana: M4 biome
+ chanica\, Functionele anatomie rug\, Functionele anatomie hals/nek\, Lesse
+ n Vander Poorten (hoofd-hals?)\, Lessen Wolthuis (buik/thorax?)\, Les 16/1
+ 2\, Oefenexamen ana + histo (studocu)\n• Celbie: H6\, H7\, H8\n\nANKI\n
+ • 754 nieuwe kaarten (Ana 198 · Histo 88 · Celbie 211 · Biochem 155 
+ · Psycho 102)\n\nAfvinken in je dashboard "Samenvattingen & Anki — Bach
+  1".
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2027-01-03@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;TZID=Europe/Brussels:20270103T210000
 DTEND;TZID=Europe/Brussels:20270103T213000
 SUMMARY:Weekreview + Anki-screenshot naar Claude
@@ -221,21 +204,20 @@ DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2027-01-04@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270111
 TRANSP:TRANSPARENT
 SUMMARY:W1 · Examen ana/histo\, dan celbie
-DESCRIPTION:MIJLPALEN\n• Ana: do 7/1 EXAMEN anatomie + histologie\n\nVERW
- ERKEN (samenvatting + vragen van Claude)\n• Ana: ma–di: volledige herh
- aling ana + histo\, zwakke punten\n• Celbie: vr–zo: herhaling H1–H8\
- , Proefexamen 1 en 2 opnieuw maken\n\nANKI\n• 690 nieuwe kaarten (Celbie
-  270 · Biochem 256 · Psycho 164)\n\nAfvinken in je dashboard "Samenvatti
- ngen & Anki — Bach 1".
+DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Ana: ma–di:
+  volledige herhaling ana + histo\, zwakke punten\n• Celbie: vr–zo: her
+ haling H1–H8\, Proefexamen 1 en 2 opnieuw maken\n\nANKI\n• 690 nieuwe 
+ kaarten (Celbie 270 · Biochem 256 · Psycho 164)\n\nAfvinken in je dashbo
+ ard "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2027-01-10@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;TZID=Europe/Brussels:20270110T210000
 DTEND;TZID=Europe/Brussels:20270110T213000
 SUMMARY:Weekreview + Anki-screenshot naar Claude
@@ -244,20 +226,19 @@ DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2027-01-11@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270118
 TRANSP:TRANSPARENT
 SUMMARY:W2 · Examen celbie\, dan biochem
-DESCRIPTION:MIJLPALEN\n• Celbie: di 12/1 EXAMEN celbiologie\n\nVERWERKEN 
- (samenvatting + vragen van Claude)\n• Celbie: ma: rekenvragen + formular
- ium\n• Biochem: H24\, H25\, Herhaling H1–H20\n\nANKI\n• 431 nieuwe k
- aarten (Biochem 204 · Psycho 227)\n\nAfvinken in je dashboard "Samenvatti
- ngen & Anki — Bach 1".
+DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Celbie: ma: r
+ ekenvragen + formularium\n• Biochem: H24\, H25\, Herhaling H1–H20\n\nA
+ NKI\n• 431 nieuwe kaarten (Biochem 204 · Psycho 227)\n\nAfvinken in je 
+ dashboard "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2027-01-17@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;TZID=Europe/Brussels:20270117T210000
 DTEND;TZID=Europe/Brussels:20270117T213000
 SUMMARY:Weekreview + Anki-screenshot naar Claude
@@ -266,20 +247,19 @@ DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2027-01-18@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270125
 TRANSP:TRANSPARENT
 SUMMARY:W3 · Examen biochem\, dan psycho
-DESCRIPTION:MIJLPALEN\n• Biochem: do 21/1 EXAMEN biochemie\n\nVERWERKEN (
- samenvatting + vragen van Claude)\n• Biochem: Oefenvragen + werkzittinge
- n + proefexamen\n• Psycho: D3 L1\, D3 L2\, D3 L3\, D3 L4\, D3 L5\, Herha
- ling deel I + II\n\nAfvinken in je dashboard "Samenvattingen & Anki — Ba
- ch 1".
+DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Biochem: Oefe
+ nvragen + werkzittingen + proefexamen\n• Psycho: D3 L1\, D3 L2\, D3 L3\,
+  D3 L4\, D3 L5\, Herhaling deel I + II\n\nAfvinken in je dashboard "Samenv
+ attingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2027-01-24@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;TZID=Europe/Brussels:20270124T210000
 DTEND;TZID=Europe/Brussels:20270124T213000
 SUMMARY:Weekreview + Anki-screenshot naar Claude
@@ -288,14 +268,13 @@ DESCRIPTION:Hoeveel weekdoelen gehaald? Screenshot van je Anki-decks sturen
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2027-01-25@studieplanning-ilyas
-DTSTAMP:20261108T213501Z
+DTSTAMP:20261108T213803Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270201
 TRANSP:TRANSPARENT
 SUMMARY:W4 · Laatste examen
-DESCRIPTION:MIJLPALEN\n• Psycho: di 26/1 EXAMEN psychologie\n\nVERWERKEN 
- (samenvatting + vragen van Claude)\n• Psycho: ma: oefenvragen (studocu) 
- + herhaling\n\nAfvinken in je dashboard "Samenvattingen & Anki — Bach 1"
- .
+DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Psycho: ma: o
+ efenvragen (studocu) + herhaling\n\nAfvinken in je dashboard "Samenvatting
+ en & Anki — Bach 1".
 END:VEVENT
 END:VCALENDAR
