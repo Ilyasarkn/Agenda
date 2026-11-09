@@ -46,22 +46,23 @@ def main():
         vandaag = dt.date.fromisoformat(sys.argv[1])
     maandag = vandaag - dt.timedelta(days=vandaag.weekday())
     rows = [r for r in csv.DictReader(open(os.path.join(HERE, "weekdoelen.csv"))) if r["week"] == maandag.isoformat()]
-    regels = []
+    secties = []
 
     ics = os.environ.get("KUL_ICS_DATA")
+    fout = None
     if ics is None and os.environ.get("KUL_ICS"):
         try:
             ics = urllib.request.urlopen(os.environ["KUL_ICS"], timeout=30).read().decode("utf-8", "replace")
         except Exception as e:
-            regels.append(f"(rooster niet bereikbaar: {type(e).__name__})")
-    if ics:
-        les = lessen(ics, vandaag)
-        regels.append("Lessen: " + (" · ".join(les) if les else "Geen lessen vandaag"))
+            fout = f"(rooster niet bereikbaar: {type(e).__name__})"
 
-    # mijlpalen van vandaag of later deze week
     def dagnr(doel):
         m = re.match(r"(ma|di|wo|do|vr|za|zo)\b", doel)
         return DAGEN.index(m.group(1)) if m else None
+
+    def zonder_datum(doel):
+        return re.sub(r"^(ma|di|wo|do|vr|za|zo) \d+/\d+\s*", "", doel)
+
     vandaag_m, later_m = [], []
     for r in rows:
         if r["type"] != "Mijlpaal":
@@ -69,38 +70,56 @@ def main():
         d = dagnr(r["doel"])
         if d is None:
             continue
-        doel = (VAK[r["vak"]] + " " if r["vak"] in VAK else "") + r["doel"]
-        (vandaag_m if d == vandaag.weekday() else later_m if d > vandaag.weekday() else []).append(doel)
-    if vandaag_m:
-        regels.append("Vandaag: " + " · ".join(vandaag_m))
-    if later_m:
-        regels.append("Nog deze week: " + " · ".join(later_m))
+        vak = VAK.get(r["vak"], r["vak"] if r["vak"] not in ("Alle",) else "")
+        if d == vandaag.weekday():
+            vandaag_m.append(f"! {vak}: {zonder_datum(r['doel'])}" if vak else f"! {zonder_datum(r['doel'])}")
+        elif d > vandaag.weekday():
+            m = re.match(r"((?:ma|di|wo|do|vr|za|zo) \d+/\d+)", r["doel"])
+            later_m.append(f"- {m.group(1) if m else ''} {vak}: {zonder_datum(r['doel'])}".replace("  ", " "))
 
+    blok = []
+    if ics:
+        les = lessen(ics, vandaag)
+        blok += les if les else ["Geen lessen"]
+    elif fout:
+        blok.append(fout)
+    blok += vandaag_m
+    secties.append("VANDAAG\n" + "\n".join(blok or ["Niets gepland"]))
+
+    if later_m:
+        secties.append("NOG DEZE WEEK\n" + "\n".join(later_m))
+
+    taken = []
     verwerk = {}
     for r in rows:
         if r["type"] == "Verwerken":
             verwerk.setdefault(VAK.get(r["vak"], r["vak"]), []).append(r["doel"])
-    if verwerk:
-        regels.append("Verwerken: " + " · ".join(f"{v} {', '.join(x)}" for v, x in verwerk.items()))
-    bij = [r["doel"] for r in rows if r["type"] == "Bijhouden" and not r["doel"].startswith("Nieuwe lessen: SV + Anki binnen")]
-    if bij:
-        regels.append("Bijhouden: " + " · ".join(bij))
+    for v, x in verwerk.items():
+        taken.append(f"- Verwerken {v}: {', '.join(x)}")
+    for r in rows:
+        if r["type"] == "Bijhouden" and not r["doel"].startswith("Nieuwe lessen: SV + Anki binnen"):
+            vak = VAK.get(r["vak"], "")
+            taken.append(f"- {vak + ': ' if vak else ''}{r['doel']}")
+    if taken:
+        secties.append("TAKEN DEZE WEEK\n" + "\n".join(taken))
+
+    onder = []
     anki = [r["doel"] for r in rows if r["type"] == "Anki"]
     if anki:
         m = re.match(r"(\d+)", anki[0])
         if m:
-            per_dag = round(int(m.group(1)) / 7)
-            regels.append(f"Anki: ±{per_dag} nieuwe vandaag ({anki[0].split(' (')[0]} deze week)")
-
+            onder.append(f"Anki: ±{round(int(m.group(1)) / 7)} nieuwe vandaag ({m.group(1)} deze week)")
     volgend = [(n, d) for n, d in EXAMENS if d >= vandaag]
     if volgend:
         n, d = volgend[0]
         dagen = (d - vandaag).days
-        regels.append(f"Examen {n}: {'VANDAAG' if dagen == 0 else f'nog {dagen} dagen'}")
+        onder.append(f"Examen {n}: {'VANDAAG' if dagen == 0 else f'over {dagen} dagen'}")
+    if onder:
+        secties.append("\n".join(onder))
 
     thema = rows[0]["thema"] if rows else ""
     titel = f"{DAGEN[vandaag.weekday()].capitalize()} {vandaag.day}/{vandaag.month}" + (f" · {thema}" if thema else "")
-    tekst = "\n".join(regels) or "Geen planning gevonden voor deze week."
+    tekst = "\n\n".join(secties)
     print(titel); print(tekst)
 
     topic = os.environ.get("NTFY_TOPIC")
