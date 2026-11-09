@@ -56,7 +56,7 @@ def main():
             regels.append(f"(rooster niet bereikbaar: {type(e).__name__})")
     if ics:
         les = lessen(ics, vandaag)
-        regels.append("📚 " + (" · ".join(les) if les else "Geen lessen vandaag"))
+        regels.append("Lessen: " + (" · ".join(les) if les else "Geen lessen vandaag"))
 
     # mijlpalen van vandaag of later deze week
     def dagnr(doel):
@@ -72,31 +72,31 @@ def main():
         doel = (VAK[r["vak"]] + " " if r["vak"] in VAK else "") + r["doel"]
         (vandaag_m if d == vandaag.weekday() else later_m if d > vandaag.weekday() else []).append(doel)
     if vandaag_m:
-        regels.append("📌 Vandaag: " + " · ".join(vandaag_m))
+        regels.append("Vandaag: " + " · ".join(vandaag_m))
     if later_m:
-        regels.append("🔜 Nog deze week: " + " · ".join(later_m))
+        regels.append("Nog deze week: " + " · ".join(later_m))
 
     verwerk = {}
     for r in rows:
         if r["type"] == "Verwerken":
             verwerk.setdefault(VAK.get(r["vak"], r["vak"]), []).append(r["doel"])
     if verwerk:
-        regels.append("✍️ Verwerken deze week: " + " · ".join(f"{v} {', '.join(x)}" for v, x in verwerk.items()))
+        regels.append("Verwerken: " + " · ".join(f"{v} {', '.join(x)}" for v, x in verwerk.items()))
     bij = [r["doel"] for r in rows if r["type"] == "Bijhouden" and not r["doel"].startswith("Nieuwe lessen: SV + Anki binnen")]
     if bij:
-        regels.append("🗂️ Bijhouden: " + " · ".join(bij))
+        regels.append("Bijhouden: " + " · ".join(bij))
     anki = [r["doel"] for r in rows if r["type"] == "Anki"]
     if anki:
         m = re.match(r"(\d+)", anki[0])
         if m:
             per_dag = round(int(m.group(1)) / 7)
-            regels.append(f"🧠 Anki: ±{per_dag} nieuwe vandaag ({anki[0].split(' (')[0]} deze week)")
+            regels.append(f"Anki: ±{per_dag} nieuwe vandaag ({anki[0].split(' (')[0]} deze week)")
 
     volgend = [(n, d) for n, d in EXAMENS if d >= vandaag]
     if volgend:
         n, d = volgend[0]
         dagen = (d - vandaag).days
-        regels.append(f"⏳ {n}: {'VANDAAG' if dagen == 0 else f'nog {dagen} dagen'}")
+        regels.append(f"Examen {n}: {'VANDAAG' if dagen == 0 else f'nog {dagen} dagen'}")
 
     thema = rows[0]["thema"] if rows else ""
     titel = f"{DAGEN[vandaag.weekday()].capitalize()} {vandaag.day}/{vandaag.month}" + (f" · {thema}" if thema else "")
@@ -106,7 +106,7 @@ def main():
     topic = os.environ.get("NTFY_TOPIC")
     if topic and "--dry" not in sys.argv:
         req = urllib.request.Request(f"https://ntfy.sh/{topic}", data=tekst.encode("utf-8"),
-                                     headers={"Title": titel.encode("utf-8"), "Tags": "sunrise"})
+                                     headers={"Title": titel.encode("utf-8")})
         urllib.request.urlopen(req, timeout=30)
 
 
