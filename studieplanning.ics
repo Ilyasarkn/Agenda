@@ -25,20 +25,20 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:week-2026-11-09@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261116
 TRANSP:TRANSPARENT
 SUMMARY:W46 · Proefexamenweek
 DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Biochem: H1\,
-  H2\, H3\, H5\, H6\, H9\, H10\n\nBIJHOUDEN\n• Celbie: SV + Anki H5.3 en 
- H5.4\n• Ana: Les vr 13/11: SV + Anki\n\nANKI\n• 448 nieuwe kaarten (An
- a 99 · Histo 45 · Celbie 132 · Biochem 104 · Psycho 68)\n\nAfvinken in
-  je dashboard "Samenvattingen & Anki — Bach 1".
+  H2\, H3\, H5\, H6\n\nBIJHOUDEN\n• Celbie: SV + Anki H5.3 en H5.4\n• A
+ na: Les vr 13/11: SV + Anki\n\nANKI\n• 448 nieuwe kaarten (Ana 99 · His
+ to 45 · Celbie 132 · Biochem 104 · Psycho 68)\n\nAfvinken in je dashboa
+ rd "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-11-15@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;TZID=Europe/Brussels:20261115T210000
 DTEND;TZID=Europe/Brussels:20261115T213000
 SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
@@ -47,21 +47,22 @@ DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-11-16@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261123
 TRANSP:TRANSPARENT
 SUMMARY:W47 · Histo + celbie starten
 DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Histo: H1\, H
- 3\, H4\, H5\n• Celbie: H1\, H2\n\nBIJHOUDEN\n• Histo: H9 zenuwweefsel 
- (les 10/11): SV + Anki\n• Ana: Nieuwe lessen Vander Poorten (wo 18 + vr 
- 20/11): SV + Anki\n• Nieuwe lessen: SV + Anki binnen 48u\n\nANKI\n• 67
- 8 nieuwe kaarten (Ana 153 · Histo 68 · Celbie 198 · Biochem 157 · Psyc
- ho 102)\n\nAfvinken in je dashboard "Samenvattingen & Anki — Bach 1".
+ 3\, H4\, H5\n• Celbie: H1\, H2\n• Biochem: H9 (uit W46)\, H10 (uit W46
+ )\n\nBIJHOUDEN\n• Histo: H9 zenuwweefsel (les 10/11): SV + Anki\n• Ana
+ : Nieuwe lessen Vander Poorten (wo 18 + vr 20/11): SV + Anki\n• Nieuwe l
+ essen: SV + Anki binnen 48u\n\nANKI\n• 706 nieuwe kaarten (Ana 159 · Hi
+ sto 71 · Celbie 206 · Biochem 164 · Psycho 106)\n\nAfvinken in je dashb
+ oard "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-11-22@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;TZID=Europe/Brussels:20261122T210000
 DTEND;TZID=Europe/Brussels:20261122T213000
 SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
@@ -70,20 +71,20 @@ DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-11-23@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
 SUMMARY:W48 · Histo afwerken + celbie transport
 DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Histo: H6\, H
  7\, H8\, H9\n• Celbie: H3.1\, H3.2\, H3.3\, H3.4\n\nBIJHOUDEN\n• Nieuw
- e lessen: SV + Anki binnen 48u\n\nANKI\n• 678 nieuwe kaarten (Ana 153 ·
-  Histo 68 · Celbie 198 · Biochem 157 · Psycho 102)\n\nAfvinken in je da
+ e lessen: SV + Anki binnen 48u\n\nANKI\n• 705 nieuwe kaarten (Ana 159 ·
+  Histo 71 · Celbie 206 · Biochem 163 · Psycho 106)\n\nAfvinken in je da
  shboard "Samenvattingen & Anki — Bach 1".
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-11-29@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;TZID=Europe/Brussels:20261129T210000
 DTEND;TZID=Europe/Brussels:20261129T213000
 SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
@@ -92,7 +93,7 @@ DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-11-30@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261207
 TRANSP:TRANSPARENT
@@ -105,7 +106,7 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Celbie: H3.5\
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-12-06@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;TZID=Europe/Brussels:20261206T210000
 DTEND;TZID=Europe/Brussels:20261206T213000
 SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
@@ -114,7 +115,7 @@ DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-12-07@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261214
 TRANSP:TRANSPARENT
@@ -127,7 +128,7 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Celbie: H5.1\
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-12-13@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;TZID=Europe/Brussels:20261213T210000
 DTEND;TZID=Europe/Brussels:20261213T213000
 SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
@@ -136,7 +137,7 @@ DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-12-14@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261221
 TRANSP:TRANSPARENT
@@ -149,7 +150,7 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Biochem: H18\
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-12-20@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;TZID=Europe/Brussels:20261220T210000
 DTEND;TZID=Europe/Brussels:20261220T213000
 SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
@@ -158,7 +159,7 @@ DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-12-21@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261228
 TRANSP:TRANSPARENT
@@ -171,7 +172,7 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Ana: M1\, M2
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2026-12-27@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;TZID=Europe/Brussels:20261227T210000
 DTEND;TZID=Europe/Brussels:20261227T213000
 SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
@@ -180,7 +181,7 @@ DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2026-12-28@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20270104
 TRANSP:TRANSPARENT
@@ -195,7 +196,7 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Ana: M4 biome
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2027-01-03@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;TZID=Europe/Brussels:20270103T210000
 DTEND;TZID=Europe/Brussels:20270103T213000
 SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
@@ -204,7 +205,7 @@ DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2027-01-04@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270111
 TRANSP:TRANSPARENT
@@ -217,7 +218,7 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Ana: ma–di:
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2027-01-10@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;TZID=Europe/Brussels:20270110T210000
 DTEND;TZID=Europe/Brussels:20270110T213000
 SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
@@ -226,7 +227,7 @@ DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2027-01-11@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270118
 TRANSP:TRANSPARENT
@@ -238,7 +239,7 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Celbie: ma: r
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2027-01-17@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;TZID=Europe/Brussels:20270117T210000
 DTEND;TZID=Europe/Brussels:20270117T213000
 SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
@@ -247,7 +248,7 @@ DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2027-01-18@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270125
 TRANSP:TRANSPARENT
@@ -259,7 +260,7 @@ DESCRIPTION:VERWERKEN (samenvatting + vragen van Claude)\n• Biochem: Oefe
 END:VEVENT
 BEGIN:VEVENT
 UID:review-2027-01-24@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;TZID=Europe/Brussels:20270124T210000
 DTEND;TZID=Europe/Brussels:20270124T213000
 SUMMARY:Weekreview: verwerkte hoofdstukken afvinken
@@ -268,7 +269,7 @@ DESCRIPTION:Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u1
 END:VEVENT
 BEGIN:VEVENT
 UID:week-2027-01-25@studieplanning-ilyas
-DTSTAMP:20261108T214149Z
+DTSTAMP:20261115T211450Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270201
 TRANSP:TRANSPARENT
