@@ -31,6 +31,12 @@ for wk,gs in W.items():
     sun=m+dt.timedelta(6)
     if sun<=dt.date(2027,1,24):
         add(f'review-{sun}','Weekreview: verwerkte hoofdstukken afvinken','Vink in je dashboard af wat je deze week verwerkt hebt. Om 22u13 herplant Claude automatisch wat bleef liggen.',s=dt.datetime(sun.year,sun.month,sun.day,21,0),e=dt.datetime(sun.year,sun.month,sun.day,21,30))
+# KURT-bibreservaties (tools/bibmomenten.csv)
+bp=os.path.join(HERE,'bibmomenten.csv')
+if os.path.exists(bp):
+    for b in csv.DictReader(open(bp,encoding='utf-8')):
+        d=dt.date.fromisoformat(b['datum']); h1,m1=map(int,b['start'].split(':')); h2,m2=map(int,b['eind'].split(':'))
+        add(f"bib-{b['datum']}-{b['start'].replace(':','')}",f"📚 {b['bib']} – {b['plek']}",f"KURT-reservatie. Vergeet niet in te checken (3 no-shows = 1 week ban).\n{b['adres']}",s=dt.datetime(d.year,d.month,d.day,h1,m1),e=dt.datetime(d.year,d.month,d.day,h2,m2))
 tz="""BEGIN:VTIMEZONE
 TZID:Europe/Brussels
 BEGIN:STANDARD
